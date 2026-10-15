@@ -1,21 +1,5 @@
 [
   {
-    "id": "gDJ-ini7fF0",
-    "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
-    "channel": "Netflix",
-    "thumbnail": "https://i.ytimg.com/vi/gDJ-ini7fF0/hqdefault.jpg",
-    "duration": 161,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "CBZZaoZ7XvU",
-    "title": "THE BEST UPCOMING MOVIES 2026 & 2027 (Trailers)",
-    "channel": "KinoCheck.com",
-    "thumbnail": "https://i.ytimg.com/vi/CBZZaoZ7XvU/hqdefault.jpg",
-    "duration": 3135,
-    "category": "hollywood_movies"
-  },
-  {
     "id": "ox8lEnsxDag",
     "title": "River | Official Trailer",
     "channel": "Universal Pictures",
@@ -32,115 +16,11 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "UKaWzMf9Ybc",
-    "title": "GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K)",
-    "channel": "Sony Pictures Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/UKaWzMf9Ybc/hqdefault.jpg",
-    "duration": 109,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "_Wv9oLUe740",
-    "title": "Artificial - Official Teaser Trailer (2026) Andrew Garfield, Yura Borisov, Monica Barbaro",
-    "channel": "IGN",
-    "thumbnail": "https://i.ytimg.com/vi/_Wv9oLUe740/hqdefault.jpg",
-    "duration": 77,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "VIMjwO_MwKQ",
-    "title": "A LONG WINTER Official Trailer (2026) Ebon Moss-Bachrach",
-    "channel": "ONE Media",
-    "thumbnail": "https://i.ytimg.com/vi/VIMjwO_MwKQ/hqdefault.jpg",
-    "duration": 155,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "bq5a5gYSzPM",
-    "title": "Narnia: The Magician's Nephew - Official Telugu Trailer | Exclusively In Cinemas February 12",
-    "channel": "Sony Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/bq5a5gYSzPM/hqdefault.jpg",
-    "duration": 150,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "t9E2spkHuK4",
-    "title": "THE EXORCIST: MARTYRS Official Trailer (2026) Scarlett Johansson",
-    "channel": "ONE Media",
-    "thumbnail": "https://i.ytimg.com/vi/t9E2spkHuK4/hqdefault.jpg",
-    "duration": 156,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "2n_6GtH-BOM",
-    "title": "CONFESSION Official Trailer (2026) James Franco",
-    "channel": "Rapid Trailer",
-    "thumbnail": "https://i.ytimg.com/vi/2n_6GtH-BOM/hqdefault.jpg",
-    "duration": 82,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "_bSnHuafAqI",
-    "title": "The Man With The Bag - Official Teaser Trailer (2026) Arnold Schwarzenegger, Alan Ritchson",
-    "channel": "IGN Movie Trailers",
-    "thumbnail": "https://i.ytimg.com/vi/_bSnHuafAqI/hqdefault.jpg",
-    "duration": 42,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "7g3Z8krq83Q",
-    "title": "Ghost Soldier New Trailer (2026)",
-    "channel": "Rotten Tomatoes Trailers",
-    "thumbnail": "https://i.ytimg.com/vi/7g3Z8krq83Q/hqdefault.jpg",
-    "duration": 112,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "5jEeTPYVBsY",
-    "title": "Focker-In-Law | Official International Trailer (2026) | Paramount Pictures UK",
-    "channel": "Paramount Pictures UK",
-    "thumbnail": "https://i.ytimg.com/vi/5jEeTPYVBsY/hqdefault.jpg",
-    "duration": 151,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "rDZplZFnbOk",
-    "title": "Artificial - Official Teaser Trailer - In Theaters Christmas Day",
-    "channel": "NEON",
-    "thumbnail": "https://i.ytimg.com/vi/rDZplZFnbOk/hqdefault.jpg",
-    "duration": 77,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "CaS4dB4Lt1g",
-    "title": "Narnia: The Magician's Nephew - Official Hindi Trailer | Exclusively In Cinemas February 12",
-    "channel": "Sony Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/CaS4dB4Lt1g/hqdefault.jpg",
-    "duration": 150,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "2JYpi59ni3M",
-    "title": "தி எக்ஸார்சிஸ்ட்: மார்ட்டர்ஸ் (The Exorcist: Martyrs) | Official Tamil Trailer",
-    "channel": "Universal Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/2JYpi59ni3M/hqdefault.jpg",
-    "duration": 145,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "bzGU0b5XAKc",
-    "title": "SACRIFICE Official Trailer (2026) Chris Evans, Anya Taylor-Joy",
-    "channel": "ONE Media",
-    "thumbnail": "https://i.ytimg.com/vi/bzGU0b5XAKc/hqdefault.jpg",
-    "duration": 128,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "jkUw2nh6fT0",
-    "title": "Carrie – Official Trailer | Prime Video",
-    "channel": "Prime Video",
-    "thumbnail": "https://i.ytimg.com/vi/jkUw2nh6fT0/hqdefault.jpg",
-    "duration": 126,
+    "id": "CBZZaoZ7XvU",
+    "title": "THE BEST UPCOMING MOVIES 2026 & 2027 (Trailers)",
+    "channel": "KinoCheck.com",
+    "thumbnail": "https://i.ytimg.com/vi/CBZZaoZ7XvU/hqdefault.jpg",
+    "duration": 3135,
     "category": "hollywood_movies"
   },
   {
@@ -152,35 +32,27 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "HRFFqDQ2KFg",
-    "title": "CHAPLIN | New 4K Trailer | STUDIOCANAL Classics",
-    "channel": "STUDIOCANAL",
-    "thumbnail": "https://i.ytimg.com/vi/HRFFqDQ2KFg/hqdefault.jpg",
-    "duration": 83,
+    "id": "t9E2spkHuK4",
+    "title": "THE EXORCIST: MARTYRS Official Trailer (2026) Scarlett Johansson",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/t9E2spkHuK4/hqdefault.jpg",
+    "duration": 156,
     "category": "hollywood_movies"
   },
   {
-    "id": "cfzyaSMjPUs",
-    "title": "THE WOLF AND THE LAMB Official Trailer (2026)",
-    "channel": "Movie Trailers Source",
-    "thumbnail": "https://i.ytimg.com/vi/cfzyaSMjPUs/hqdefault.jpg",
-    "duration": 110,
+    "id": "gDJ-ini7fF0",
+    "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
+    "channel": "Netflix",
+    "thumbnail": "https://i.ytimg.com/vi/gDJ-ini7fF0/hqdefault.jpg",
+    "duration": 161,
     "category": "hollywood_movies"
   },
   {
-    "id": "iblhKtmMtzw",
-    "title": "Narnia: The Magician's Nephew - Official Tamil Trailer | Exclusively In Cinemas February 12",
-    "channel": "Sony Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/iblhKtmMtzw/hqdefault.jpg",
-    "duration": 150,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "UmfSGatf7Ew",
-    "title": "The Exorcist: Martyrs | Official Trailer",
-    "channel": "Universal Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/UmfSGatf7Ew/hqdefault.jpg",
-    "duration": 145,
+    "id": "2n_6GtH-BOM",
+    "title": "CONFESSION Official Trailer (2026) James Franco",
+    "channel": "Rapid Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/2n_6GtH-BOM/hqdefault.jpg",
+    "duration": 82,
     "category": "hollywood_movies"
   },
   {
@@ -192,11 +64,11 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "wl7uj7n7DoY",
-    "title": "The Body | Official Trailer | Netflix",
-    "channel": "Netflix",
-    "thumbnail": "https://i.ytimg.com/vi/wl7uj7n7DoY/hqdefault.jpg",
-    "duration": 131,
+    "id": "A7lyvgnDuDE",
+    "title": "Ebenezer | Official Trailer (2026 Movie) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin",
+    "channel": "Paramount Pictures",
+    "thumbnail": "https://i.ytimg.com/vi/A7lyvgnDuDE/hqdefault.jpg",
+    "duration": 82,
     "category": "hollywood_movies"
   },
   {
@@ -208,19 +80,131 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "BwFuJbHNE4o",
-    "title": "Gajab Raat | Official Trailer | Manoj Bajpayee | Divya Dutta | Nushrratt B. | Netflix India",
-    "channel": "Netflix India",
-    "thumbnail": "https://i.ytimg.com/vi/BwFuJbHNE4o/hqdefault.jpg",
-    "duration": 140,
+    "id": "UmfSGatf7Ew",
+    "title": "The Exorcist: Martyrs | Official Trailer",
+    "channel": "Universal Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/UmfSGatf7Ew/hqdefault.jpg",
+    "duration": 145,
     "category": "hollywood_movies"
   },
   {
-    "id": "A7lyvgnDuDE",
-    "title": "Ebenezer | Official Trailer (2026 Movie) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin",
-    "channel": "Paramount Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/A7lyvgnDuDE/hqdefault.jpg",
-    "duration": 82,
+    "id": "bq5a5gYSzPM",
+    "title": "Narnia: The Magician's Nephew - Official Telugu Trailer | Exclusively In Cinemas February 12",
+    "channel": "Sony Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/bq5a5gYSzPM/hqdefault.jpg",
+    "duration": 150,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "h6DMmWvppF4",
+    "title": "TREASURE ISLAND Official Trailer (2026) Hayley Atwell",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/h6DMmWvppF4/hqdefault.jpg",
+    "duration": 90,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "bzGU0b5XAKc",
+    "title": "SACRIFICE Official Trailer (2026) Chris Evans, Anya Taylor-Joy",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/bzGU0b5XAKc/hqdefault.jpg",
+    "duration": 128,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "zic4lDOoLm0",
+    "title": "VISIONQUEST Official Final Trailer (2026) Marvel",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/zic4lDOoLm0/hqdefault.jpg",
+    "duration": 170,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "7tJqYvOwYAg",
+    "title": "APOCALYPSE Z: New World Official Trailer (2026) Prime Video | 4K",
+    "channel": "GameGasm",
+    "thumbnail": "https://i.ytimg.com/vi/7tJqYvOwYAg/hqdefault.jpg",
+    "duration": 130,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "U6sbm1OaJb8",
+    "title": "Street Fighter | New Trailer (2026 Movie)",
+    "channel": "Paramount Pictures and Legendary",
+    "thumbnail": "https://i.ytimg.com/vi/U6sbm1OaJb8/hqdefault.jpg",
+    "duration": 169,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "2JYpi59ni3M",
+    "title": "தி எக்ஸார்சிஸ்ட்: மார்ட்டர்ஸ் (The Exorcist: Martyrs) | Official Tamil Trailer",
+    "channel": "Universal Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/2JYpi59ni3M/hqdefault.jpg",
+    "duration": 145,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "iblhKtmMtzw",
+    "title": "Narnia: The Magician's Nephew - Official Tamil Trailer | Exclusively In Cinemas February 12",
+    "channel": "Sony Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/iblhKtmMtzw/hqdefault.jpg",
+    "duration": 150,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "_bSnHuafAqI",
+    "title": "The Man With The Bag - Official Teaser Trailer (2026) Arnold Schwarzenegger, Alan Ritchson",
+    "channel": "IGN Movie Trailers",
+    "thumbnail": "https://i.ytimg.com/vi/_bSnHuafAqI/hqdefault.jpg",
+    "duration": 42,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "fSURfOSAo14",
+    "title": "Godzilla Minus Zero Trailer #2 (2026)",
+    "channel": "Rotten Tomatoes Trailers",
+    "thumbnail": "https://i.ytimg.com/vi/fSURfOSAo14/hqdefault.jpg",
+    "duration": 84,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "sXKnmgmbkoE",
+    "title": "Marvel Television’s VisionQuest | Official Trailer",
+    "channel": "Marvel Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/sXKnmgmbkoE/hqdefault.jpg",
+    "duration": 159,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "7fn8BREu93M",
+    "title": "STREET FIGHTER Official Trailer 2 (2026)",
+    "channel": "Movie Trailers Source",
+    "thumbnail": "https://i.ytimg.com/vi/7fn8BREu93M/hqdefault.jpg",
+    "duration": 175,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "3Eijq1RHjt4",
+    "title": "MODEL CITIZEN Official Trailer (2026) Aaron Eckhart",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/3Eijq1RHjt4/hqdefault.jpg",
+    "duration": 139,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "Ld22MTWZyLc",
+    "title": "MAYDAY Official Trailer (2026) Ryan Reynolds",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/Ld22MTWZyLc/hqdefault.jpg",
+    "duration": 168,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "CaS4dB4Lt1g",
+    "title": "Narnia: The Magician's Nephew - Official Hindi Trailer | Exclusively In Cinemas February 12",
+    "channel": "Sony Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/CaS4dB4Lt1g/hqdefault.jpg",
+    "duration": 150,
     "category": "hollywood_movies"
   },
   {
@@ -232,11 +216,27 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "RjEZaUBbUvU",
-    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix",
-    "channel": "Netflix",
-    "thumbnail": "https://i.ytimg.com/vi/RjEZaUBbUvU/hqdefault.jpg",
-    "duration": 90,
+    "id": "TDmUCHNsC64",
+    "title": "THE BEST UPCOMING MOVIES 2026 & 2027 (Trailers)",
+    "channel": "KinoCheck.com",
+    "thumbnail": "https://i.ytimg.com/vi/TDmUCHNsC64/hqdefault.jpg",
+    "duration": 3928,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "OdTTCTmdgnE",
+    "title": "Street Fighter | New Hindi Trailer | In Cinemas October 16",
+    "channel": "Paramount Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/OdTTCTmdgnE/hqdefault.jpg",
+    "duration": 163,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "JFQcDFhNh4o",
+    "title": "Heart of the Beast | Official Trailer (2026 Movie) - Brad Pitt, J.K. Simmons, Anna Lambe",
+    "channel": "Paramount Pictures",
+    "thumbnail": "https://i.ytimg.com/vi/JFQcDFhNh4o/hqdefault.jpg",
+    "duration": 146,
     "category": "hollywood_movies"
   },
   {
@@ -248,11 +248,27 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "AK1kkQ_0c7k",
-    "title": "SALT - 2 || Denzel Washington New Action Thriller Movie 2026 | Best Action English Movie | HD 1080p",
-    "channel": "Film Vault Studios",
-    "thumbnail": "https://i.ytimg.com/vi/AK1kkQ_0c7k/hqdefault.jpg",
-    "duration": 5902,
+    "id": "RZfEYeMOI-Y",
+    "title": "Wrath of Valhalla | Hollywood New English Full HD Movie | Action Adventure Fantasy Thriller Revenge",
+    "channel": "Zovix – English",
+    "thumbnail": "https://i.ytimg.com/vi/RZfEYeMOI-Y/hqdefault.jpg",
+    "duration": 8152,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "DLw9r6H3xf0",
+    "title": "COLOMBIANA 2 (2026) | New Action Movie 2026 | Full Hollywood Action Movie in English 2026",
+    "channel": "Fast Forward Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/DLw9r6H3xf0/hqdefault.jpg",
+    "duration": 6094,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "WpvK8VWMvHk",
+    "title": "Liam Neeson & Guy Pearce In THE FINAL ASSIGNMENT | Hollywood Full Action English Movie | Free Movies",
+    "channel": "Hollywood English Collection",
+    "thumbnail": "https://i.ytimg.com/vi/WpvK8VWMvHk/hqdefault.jpg",
+    "duration": 6199,
     "category": "hollywood_movies"
   },
   {
@@ -272,6 +288,14 @@
     "category": "hollywood_movies"
   },
   {
+    "id": "A07ZfodVbb8",
+    "title": "🔥ANTI-VENOM (2026) New Action Movie in English | Full Hollywood Action Movie in English 2026",
+    "channel": "CineFlex Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/A07ZfodVbb8/hqdefault.jpg",
+    "duration": 5619,
+    "category": "hollywood_movies"
+  },
+  {
     "id": "AKSN8A8IL38",
     "title": "Trade to Kill || Best Hollywood Action Adventures Movie in English ll",
     "channel": "Fusion Flicks Movies",
@@ -280,11 +304,51 @@
     "category": "hollywood_movies"
   },
   {
+    "id": "wtbZUJtjN0Q",
+    "title": "Nine Kingdoms | Full HD English Movie | Hollywood Action Thriller Film | Royal War | Epic Battle",
+    "channel": "Chauhan Films – Tamil",
+    "thumbnail": "https://i.ytimg.com/vi/wtbZUJtjN0Q/hqdefault.jpg",
+    "duration": 8218,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "AK1kkQ_0c7k",
+    "title": "SALT - 2 || Denzel Washington New Action Thriller Movie 2026 | Best Action English Movie | HD 1080p",
+    "channel": "Film Vault Studios",
+    "thumbnail": "https://i.ytimg.com/vi/AK1kkQ_0c7k/hqdefault.jpg",
+    "duration": 5902,
+    "category": "hollywood_movies"
+  },
+  {
     "id": "SQLu41XIqSM",
     "title": "Liam Neeson & January Jones In THE WRONG MAN - Hollywood Full Action English Movie | Free Movies",
     "channel": "Black Screen Studio",
     "thumbnail": "https://i.ytimg.com/vi/SQLu41XIqSM/hqdefault.jpg",
     "duration": 6051,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "Fx2RKJculxc",
+    "title": "Street Velocity Hollywood Action Thriller Crime Movie | Full English HD Movie | Ultimate Heist Chase",
+    "channel": "Titan Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/Fx2RKJculxc/hqdefault.jpg",
+    "duration": 4486,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "27B0GjMljrg",
+    "title": "SON OF BEAST : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
+    "channel": "Joy Drama",
+    "thumbnail": "https://i.ytimg.com/vi/27B0GjMljrg/hqdefault.jpg",
+    "duration": 5639,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "sAwppeQxQks",
+    "title": "The Money Hunt || Best Hollywood Action Adventures Movie in English ll",
+    "channel": "Collection Studio",
+    "thumbnail": "https://i.ytimg.com/vi/sAwppeQxQks/hqdefault.jpg",
+    "duration": 4771,
     "category": "hollywood_movies"
   },
   {
@@ -304,11 +368,11 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "A07ZfodVbb8",
-    "title": "🔥ANTI-VENOM (2026) New Action Movie in English | Full Hollywood Action Movie in English 2026",
-    "channel": "CineFlex Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/A07ZfodVbb8/hqdefault.jpg",
-    "duration": 5619,
+    "id": "JaMiPNwKmSQ",
+    "title": "Kevin Costner's UNDERGROUND SPY - Hollywood English Movie | Blockbuster Action Packed English Movie",
+    "channel": "Hollywood English Collection",
+    "thumbnail": "https://i.ytimg.com/vi/JaMiPNwKmSQ/hqdefault.jpg",
+    "duration": 6486,
     "category": "hollywood_movies"
   },
   {
@@ -320,147 +384,107 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "Fx2RKJculxc",
-    "title": "Street Velocity Hollywood Action Thriller Crime Movie | Full English HD Movie | Ultimate Heist Chase",
-    "channel": "Titan Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/Fx2RKJculxc/hqdefault.jpg",
-    "duration": 4486,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "sAwppeQxQks",
-    "title": "The Money Hunt || Best Hollywood Action Adventures Movie in English ll",
-    "channel": "Collection Studio",
-    "thumbnail": "https://i.ytimg.com/vi/sAwppeQxQks/hqdefault.jpg",
-    "duration": 4771,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "qbJ54_lIDqM",
-    "title": "Sylvester Stallone and Madeline Stowe In THE BODYGUARD - Hollywood English Full Action English Movie",
-    "channel": "Blockbuster English Movies",
-    "thumbnail": "https://i.ytimg.com/vi/qbJ54_lIDqM/hqdefault.jpg",
-    "duration": 5052,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "RZfEYeMOI-Y",
-    "title": "Wrath of Valhalla | Hollywood New English Full HD Movie | Action Adventure Fantasy Thriller Revenge",
-    "channel": "Zovix – English",
-    "thumbnail": "https://i.ytimg.com/vi/RZfEYeMOI-Y/hqdefault.jpg",
-    "duration": 8152,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "WpvK8VWMvHk",
-    "title": "Liam Neeson & Guy Pearce In THE FINAL ASSIGNMENT | Hollywood Full Action English Movie | Free Movies",
-    "channel": "Hollywood English Collection",
-    "thumbnail": "https://i.ytimg.com/vi/WpvK8VWMvHk/hqdefault.jpg",
-    "duration": 6199,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "27B0GjMljrg",
-    "title": "SON OF BEAST : Angelina Jolie | New Action Movie 2026 | Full Movie 4K #actionmovies",
-    "channel": "Joy Drama",
-    "thumbnail": "https://i.ytimg.com/vi/27B0GjMljrg/hqdefault.jpg",
+    "id": "BDPfG26lYgA",
+    "title": "LIAM NEESON : CABIN 10 | New Action Movie | Full Movie | Movie Concept AI 2025 | 4K ULTRA",
+    "channel": "X Drama",
+    "thumbnail": "https://i.ytimg.com/vi/BDPfG26lYgA/hqdefault.jpg",
     "duration": 5639,
     "category": "hollywood_movies"
   },
   {
-    "id": "sOFOMu0BTfo",
-    "title": "🔥THE TRANSPORTER 5 (2026) | New Action Movie 2026 | Full Hollywood Action Movie in English 2026",
-    "channel": "CineFlex Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/sOFOMu0BTfo/hqdefault.jpg",
-    "duration": 5650,
+    "id": "cxdS7VVwzFU",
+    "title": "Badsville | Full Hollywood Romantic Thriller Movie Hindi Dubbed | Action Movie | Hollywood Movie |",
+    "channel": "ASC Digital Hollywood",
+    "thumbnail": "https://i.ytimg.com/vi/cxdS7VVwzFU/hqdefault.jpg",
+    "duration": 5914,
     "category": "hollywood_movies"
   },
   {
-    "id": "XjNyvARyQws",
-    "title": "Sword of God | Hollywood English Full HD Movie | Historical War Action Adventure | Warrior's Destiny",
-    "channel": "Blue Orbit Media",
-    "thumbnail": "https://i.ytimg.com/vi/XjNyvARyQws/hqdefault.jpg",
-    "duration": 7659,
+    "id": "YnNRAbFZ-8M",
+    "title": "THE FORBIDDEN RESORT - Hollywood Horror Movie Hindi Dubbed | Kawee, Raweewan | Hindi Horror Movie",
+    "channel": "O Movies Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/YnNRAbFZ-8M/hqdefault.jpg",
+    "duration": 5025,
     "category": "hollywood_movies"
   },
   {
-    "id": "Mg_CuDtpf0U",
-    "title": "The Last Howl Full HD Movie | Epic Action Adventure Fantasy | Warrior’s Revenge Against Dark Destiny",
-    "channel": "Titan Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/Mg_CuDtpf0U/hqdefault.jpg",
-    "duration": 8505,
+    "id": "fRKOJrJb_UU",
+    "title": "CODE X - Hindi Dubbed Full Movie | Mohanlal, Shraddha Srinath, Ramachandra | South Action Movie",
+    "channel": "ADMD South Flix",
+    "thumbnail": "https://i.ytimg.com/vi/fRKOJrJb_UU/hqdefault.jpg",
+    "duration": 8712,
     "category": "hollywood_movies"
   },
   {
-    "id": "wIrUdlJXjGw",
-    "title": "Passengers (2016) |  Hollywood Movie Hindi dubbed | Jennifer Lawrence | Chris Pratt | Sci-Fi Film",
-    "channel": "Prime Viral ",
-    "thumbnail": "https://i.ytimg.com/vi/wIrUdlJXjGw/hqdefault.jpg",
-    "duration": 6688,
+    "id": "Wu0c6_pQB94",
+    "title": "USS LEVIATHAN - Full Hollywood Action Movie Hindi Dubbed | Chris H | Hindi Action Adventure Movie",
+    "channel": "Majestic Movies Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/Wu0c6_pQB94/hqdefault.jpg",
+    "duration": 5645,
     "category": "hollywood_movies"
   },
   {
-    "id": "N97z_4qvhNw",
-    "title": "The Last Mission (2026) | Hollywood Full Movie Hindi Dubbed | Commando Action Thriller | 4K Ultra HD",
-    "channel": "Hollywood Hindi Dub",
-    "thumbnail": "https://i.ytimg.com/vi/N97z_4qvhNw/hqdefault.jpg",
-    "duration": 4846,
+    "id": "CjfB93La940",
+    "title": "AMAZON BEAST - Hollywood Horror Movie Hindi Dubbed | Zachary, Lindsey | Horror Movies | हॉलीवुड मूवी",
+    "channel": "Star Movie Dhamaka",
+    "thumbnail": "https://i.ytimg.com/vi/CjfB93La940/hqdefault.jpg",
+    "duration": 5113,
     "category": "hollywood_movies"
   },
   {
-    "id": "KmKFmgZ8TzQ",
-    "title": "ROBO GIRL - Hollywood Movie Hindi Dubbed | Sebastian Cavazza, Stoya | Full Romantic Sci-fi Movie",
-    "channel": "Rising Nova Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/KmKFmgZ8TzQ/hqdefault.jpg",
-    "duration": 3822,
+    "id": "pjff6hjgyrI",
+    "title": "TEMPLE OF GOLD SKULLS Full Hollywood Action Movie Hindi Dubbed | Nick | Hindi Action Adventure Movie",
+    "channel": "Mighty Movies Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/pjff6hjgyrI/hqdefault.jpg",
+    "duration": 5804,
     "category": "hollywood_movies"
   },
   {
-    "id": "uzN63h-Li98",
-    "title": "DRUG MAFIA Full Hollywood Movie Hindi Dubbed | Hu Guofang, Zhao Jing, Li Meng | Chinese Action Movie",
-    "channel": "Dimension Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/uzN63h-Li98/hqdefault.jpg",
-    "duration": 5430,
+    "id": "FkniilpWUBg",
+    "title": "SKULL RACER - Hollywood Movie Hindi Dubbed | Nicole Eggert, Greg Evigan | Action Thriller Movie",
+    "channel": "Majestic Movies Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/FkniilpWUBg/hqdefault.jpg",
+    "duration": 5342,
     "category": "hollywood_movies"
   },
   {
-    "id": "JtmCRZqWW5o",
-    "title": "Bermuda Tentacles | Hindi dubbed Hollywood full movie | Hollywood Movie Dubbed in Hindi",
-    "channel": "South Movie Full Hindi Dubbed",
-    "thumbnail": "https://i.ytimg.com/vi/JtmCRZqWW5o/hqdefault.jpg",
-    "duration": 5148,
+    "id": "Ktn-PE7WTs4",
+    "title": "Terminal Jungle (2026) | Hollywood Full Movie Hindi Dubbed | Jungle Action Thriller | 4K Ultra HD",
+    "channel": "Cobra 11: Dabang Police Force",
+    "thumbnail": "https://i.ytimg.com/vi/Ktn-PE7WTs4/hqdefault.jpg",
+    "duration": 4933,
     "category": "hollywood_movies"
   },
   {
-    "id": "Rp2cnd_dtbA",
-    "title": "Men in Black \" New Hollywood (2026) Full Movie in Hindi Dubbed | Latest Hollywood Action | HD Movie",
-    "channel": "muviee world",
-    "thumbnail": "https://i.ytimg.com/vi/Rp2cnd_dtbA/hqdefault.jpg",
-    "duration": 6540,
+    "id": "ozIYRAjcfpE",
+    "title": "Badla Dinosaur Ka (Hindi Dubbed) | Full Action Adventure Hollywood Movie | Latest Hindi Dubbed Film",
+    "channel": "Cinekorn Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/ozIYRAjcfpE/hqdefault.jpg",
+    "duration": 5238,
     "category": "hollywood_movies"
   },
   {
-    "id": "ZNDzrTfIYjU",
-    "title": "Inkheart (2026) Full Movie Hindi Dubbed | Brendan Fraser | Fantasy Adventure | HD",
-    "channel": "movie recap ",
-    "thumbnail": "https://i.ytimg.com/vi/ZNDzrTfIYjU/hqdefault.jpg",
-    "duration": 6362,
+    "id": "DJdyMwIWaIg",
+    "title": "Varanasi Bhola Full Movie 2026 | Mahesh Babu & Sai Pallavi | New Released Hindi Dubbed Movie 2026",
+    "channel": "Super High Pictures",
+    "thumbnail": "https://i.ytimg.com/vi/DJdyMwIWaIg/hqdefault.jpg",
+    "duration": 8665,
     "category": "hollywood_movies"
   },
   {
-    "id": "IFdcpzZrT80",
-    "title": "Khalifa (2026) New Released Hindi Dubbed Full Movie | Starring Prithviraj, Neil Nitin, Mohanlal",
-    "channel": "RG Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/IFdcpzZrT80/hqdefault.jpg",
-    "duration": 6908,
+    "id": "YYgjPxwH4ZE",
+    "title": "Hebah Patel (4k) New Released South Hindi Dubbed Action Movie | Indra Sena, Aishwarya Raj New Movie",
+    "channel": "DRJ Records Zest",
+    "thumbnail": "https://i.ytimg.com/vi/YYgjPxwH4ZE/hqdefault.jpg",
+    "duration": 6722,
     "category": "hollywood_movies"
   },
   {
-    "id": "fAE3fVMNdds",
-    "title": "द सरफेस (THE SURFACE) | Hollywood Movies in Hindi Dubbed | full action HD Movies in Hindi",
-    "channel": "Hollywood English Movies Dubbed in Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/fAE3fVMNdds/hqdefault.jpg",
-    "duration": 5060,
+    "id": "L1p2K5wFLE8",
+    "title": "BAGHEERA (2026) New Released Full Hindi Dubbed Movie | Sriimurali, Rukmini Vasanth, Prakash Raj",
+    "channel": "AD-WISE MEDIA ACTION MOVIEPLEX",
+    "thumbnail": "https://i.ytimg.com/vi/L1p2K5wFLE8/hqdefault.jpg",
+    "duration": 8771,
     "category": "hollywood_movies"
   },
   {
@@ -472,83 +496,59 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "_Nsj7Oio5Lg",
-    "title": "FIRST SUNDAY | फ़र्स्ट संडे | Hollywood Movie Hindi Dubbed | Comedy Movie | Sony Pictures",
-    "channel": "Sony Pictures Entertainment - Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/_Nsj7Oio5Lg/hqdefault.jpg",
-    "duration": 5878,
+    "id": "LWlakhSLPTU",
+    "title": "Mira and the Lost Kingdom | New Released 2026 Full Hindi Dubbed Animated Fantasy Adventure Movie",
+    "channel": "Haya Diaries",
+    "thumbnail": "https://i.ytimg.com/vi/LWlakhSLPTU/hqdefault.jpg",
+    "duration": 3603,
     "category": "hollywood_movies"
   },
   {
-    "id": "CGQ8JwfmD5w",
-    "title": "the venom bank robbery full movie in hindi dubbed",
-    "channel": "Full Movie hindi",
-    "thumbnail": "https://i.ytimg.com/vi/CGQ8JwfmD5w/hqdefault.jpg",
-    "duration": 6035,
+    "id": "uRpw5GnR_qE",
+    "title": "Hollywood Movie \"War Girl\" Hindi Dubbed | Action Movie | Ziheng Guo - Full Movie",
+    "channel": "Hollywood Adventure Movies",
+    "thumbnail": "https://i.ytimg.com/vi/uRpw5GnR_qE/hqdefault.jpg",
+    "duration": 3748,
     "category": "hollywood_movies"
   },
   {
-    "id": "WX9vX4hlKX4",
-    "title": "Jackie Chan In JAPANESE GANGSTER - Hollywood Movie Hindi Dubbed | Chinese Action Movie In Hindi",
-    "channel": "Star Entertainment Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/WX9vX4hlKX4/hqdefault.jpg",
-    "duration": 7106,
+    "id": "mGT2gvSRSsw",
+    "title": "Mukt (2026) New Released South Hindi Dubbed Action Movie | Kamal Haasan, Gautami, Niveda | New Movie",
+    "channel": "Dumdar HD Movies",
+    "thumbnail": "https://i.ytimg.com/vi/mGT2gvSRSsw/hqdefault.jpg",
+    "duration": 9686,
     "category": "hollywood_movies"
   },
   {
-    "id": "shBDCdqsMb4",
-    "title": "New Hollywood Movie in Hindi Dubbed 2023 | Hindi Dubbed Movies | Captain Jack Sparrow|New Movie 2023",
-    "channel": "Wood Wallah Films",
-    "thumbnail": "https://i.ytimg.com/vi/shBDCdqsMb4/hqdefault.jpg",
-    "duration": 8095,
+    "id": "07Yj0CpJnh4",
+    "title": "Thalapathy Vijay & Namitha South Released Full Hindi Dubbed Movie | Latest South Indian Action Movie",
+    "channel": "DRJ Records Now",
+    "thumbnail": "https://i.ytimg.com/vi/07Yj0CpJnh4/hqdefault.jpg",
+    "duration": 7703,
     "category": "hollywood_movies"
   },
   {
-    "id": "fmOhkXqwt6I",
-    "title": "Bridge To Terabithia (2007) Full Movie In Hindi | Hollywood Movie Hindi Dubbed 2023 | Fantasy Movie",
-    "channel": "Holly FILMS",
-    "thumbnail": "https://i.ytimg.com/vi/fmOhkXqwt6I/hqdefault.jpg",
-    "duration": 5732,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "QAHCab91TFg",
-    "title": "The Descent Movie in Hindi | Hollywood Movie Hindi Dubbed | English Movies in Hindi",
-    "channel": "Superfine Films Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/QAHCab91TFg/hqdefault.jpg",
-    "duration": 5353,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "HnFME0c_DFY",
-    "title": "THE TIGRESS - Full Hollywood Action Movie Hindi Dubbed | Terry M, Greg | Hindi Action Thriller Movie",
+    "id": "cDtFY4nMvc4",
+    "title": "PRISON WOLF - Full Hollywood Action Movie Hindi Dubbed | David, James | Hindi Action Thriller Movie",
     "channel": "Rising Nova Premiere",
-    "thumbnail": "https://i.ytimg.com/vi/HnFME0c_DFY/hqdefault.jpg",
-    "duration": 5319,
+    "thumbnail": "https://i.ytimg.com/vi/cDtFY4nMvc4/hqdefault.jpg",
+    "duration": 5006,
     "category": "hollywood_movies"
   },
   {
-    "id": "E5yyemjIS7Y",
-    "title": "Rise of AI (2026) Full Movie Hindi Dubbed | Sci-Fi Action Thriller | Hollywood Movie HD | War Movie",
-    "channel": "Hollywood Hindi Dub",
-    "thumbnail": "https://i.ytimg.com/vi/E5yyemjIS7Y/hqdefault.jpg",
-    "duration": 4884,
+    "id": "jhxPLTk0on4",
+    "title": "King | South Indian Released Full Hindi Dubbed Action Movies | Ramcharan New Movie 2026",
+    "channel": "Shyam Studio Originals",
+    "thumbnail": "https://i.ytimg.com/vi/jhxPLTk0on4/hqdefault.jpg",
+    "duration": 6825,
     "category": "hollywood_movies"
   },
   {
-    "id": "EbmMi4Tzr2E",
-    "title": "Avatar 3 Full Movie Hindi Dubbed 2025 | War From Ashes | Full Action Adventure Movie | Game Movie",
-    "channel": "Hindi Dub Cinematic",
-    "thumbnail": "https://i.ytimg.com/vi/EbmMi4Tzr2E/hqdefault.jpg",
-    "duration": 4972,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "RsYVwqbHKJw",
-    "title": "Iron King | Hollywood Movie Hindi Dubbed | Aleksandr Ivashkevich | Russian Historical Action Film",
-    "channel": "Hollywood HD Movies In Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/RsYVwqbHKJw/hqdefault.jpg",
-    "duration": 5670,
+    "id": "gvAkWYI4tzQ",
+    "title": "ZOMBIE ANIMALS Full Hollywood Movie Hindi Dubbed | Ione Butler | Zombie Horror Action Movie In Hindi",
+    "channel": "Hollywood Clip Flicks",
+    "thumbnail": "https://i.ytimg.com/vi/gvAkWYI4tzQ/hqdefault.jpg",
+    "duration": 4643,
     "category": "hollywood_movies"
   }
 ]
