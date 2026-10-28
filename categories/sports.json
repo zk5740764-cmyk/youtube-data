@@ -16,14 +16,6 @@
     "category": "sports"
   },
   {
-    "id": "l0d2S5p8bRE",
-    "title": "India Men v Malaysia Men | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
-    "channel": "Star Sports and Pro Kabaddi",
-    "thumbnail": "https://i.ytimg.com/vi/l0d2S5p8bRE/hqdefault.jpg",
-    "duration": 747,
-    "category": "sports"
-  },
-  {
     "id": "8dawUkc7nKE",
     "title": "India Men vs Nigeria Men | Match Highlights | Commonwealth Kabaddi Championship 2026 | #CWKC2026",
     "channel": "Star Sports",
@@ -32,43 +24,11 @@
     "category": "sports"
   },
   {
-    "id": "Vm6APOQLJYg",
-    "title": "India vs England | Men | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC",
+    "id": "l0d2S5p8bRE",
+    "title": "India Men v Malaysia Men | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
     "channel": "Star Sports and Pro Kabaddi",
-    "thumbnail": "https://i.ytimg.com/vi/Vm6APOQLJYg/hqdefault.jpg",
-    "duration": 733,
-    "category": "sports"
-  },
-  {
-    "id": "znCnHCo6rSM",
-    "title": "India Women v Singapore Women | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
-    "channel": "Star Sports and Pro Kabaddi",
-    "thumbnail": "https://i.ytimg.com/vi/znCnHCo6rSM/hqdefault.jpg",
-    "duration": 723,
-    "category": "sports"
-  },
-  {
-    "id": "_HubcZuOt4Y",
-    "title": "NZ vs IND 3rd T20I Highlights 2026 🔥 Daryl Mitchell's Power Show | India vs New Zealand",
-    "channel": "BD VoicE",
-    "thumbnail": "https://i.ytimg.com/vi/_HubcZuOt4Y/hqdefault.jpg",
-    "duration": 491,
-    "category": "sports"
-  },
-  {
-    "id": "n-o-0guLZDI",
-    "title": "India Women vs Nigeria Women | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
-    "channel": "Star Sports and Pro Kabaddi",
-    "thumbnail": "https://i.ytimg.com/vi/n-o-0guLZDI/hqdefault.jpg",
-    "duration": 708,
-    "category": "sports"
-  },
-  {
-    "id": "4LVtl4wRsX4",
-    "title": "India vs New Zealand 3rd T20 2026 Full Match Highlights | Ind vs NZ",
-    "channel": "Kabaddi World",
-    "thumbnail": "https://i.ytimg.com/vi/4LVtl4wRsX4/hqdefault.jpg",
-    "duration": 1213,
+    "thumbnail": "https://i.ytimg.com/vi/l0d2S5p8bRE/hqdefault.jpg",
+    "duration": 747,
     "category": "sports"
   },
   {
@@ -80,19 +40,35 @@
     "category": "sports"
   },
   {
+    "id": "znCnHCo6rSM",
+    "title": "India Women v Singapore Women | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
+    "channel": "Star Sports and Pro Kabaddi",
+    "thumbnail": "https://i.ytimg.com/vi/znCnHCo6rSM/hqdefault.jpg",
+    "duration": 723,
+    "category": "sports"
+  },
+  {
+    "id": "Vm6APOQLJYg",
+    "title": "India vs England | Men | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC",
+    "channel": "Star Sports and Pro Kabaddi",
+    "thumbnail": "https://i.ytimg.com/vi/Vm6APOQLJYg/hqdefault.jpg",
+    "duration": 733,
+    "category": "sports"
+  },
+  {
+    "id": "n-o-0guLZDI",
+    "title": "India Women vs Nigeria Women | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
+    "channel": "Star Sports and Pro Kabaddi",
+    "thumbnail": "https://i.ytimg.com/vi/n-o-0guLZDI/hqdefault.jpg",
+    "duration": 708,
+    "category": "sports"
+  },
+  {
     "id": "-8xssYg-uZM",
     "title": "India Women v Uganda Women | Match Highlights | Commonwealth Kabaddi Championship 2026 #CWKC 2026",
     "channel": "Star Sports and Pro Kabaddi",
     "thumbnail": "https://i.ytimg.com/vi/-8xssYg-uZM/hqdefault.jpg",
     "duration": 787,
-    "category": "sports"
-  },
-  {
-    "id": "e6QCEjmTz2Q",
-    "title": "New Zealand vs India 3rd T20I Watch Along | #NZvIND | India tour of New Zealand",
-    "channel": "Star Sports",
-    "thumbnail": "https://i.ytimg.com/vi/e6QCEjmTz2Q/hqdefault.jpg",
-    "duration": 12466,
     "category": "sports"
   },
   {
@@ -104,6 +80,14 @@
     "category": "sports"
   },
   {
+    "id": "e6QCEjmTz2Q",
+    "title": "New Zealand vs India 3rd T20I Watch Along | #NZvIND | India tour of New Zealand",
+    "channel": "Star Sports",
+    "thumbnail": "https://i.ytimg.com/vi/e6QCEjmTz2Q/hqdefault.jpg",
+    "duration": 12466,
+    "category": "sports"
+  },
+  {
     "id": "yWmgoIrYcUU",
     "title": "India Vs New Zealand, T20 Highlights : Abhishek Sharma Century | Vaibhav Sooryavanshi | World Record",
     "channel": "News24 Sports and News 24",
@@ -112,19 +96,35 @@
     "category": "sports"
   },
   {
-    "id": "Wmeb0Nro1Pw",
-    "title": "IND vs NZ 3rd T20 Live Fan Chat | India vs New Zealand 2026 | Live Cricket Match Today, Iqbal Sports",
-    "channel": "Iqbal Sports",
-    "thumbnail": "https://i.ytimg.com/vi/Wmeb0Nro1Pw/hqdefault.jpg",
-    "duration": 14542,
+    "id": "htXIQv1s09o",
+    "title": "IND vs NZ 4th, 5th T20 के लिए 'नई Team India आई'! 4 नए खूंखार लड़कों की एंट्री, 4 चैंपियन की 'विदाई'",
+    "channel": "News24 Sports and News 24",
+    "thumbnail": "https://i.ytimg.com/vi/htXIQv1s09o/hqdefault.jpg",
+    "duration": 238,
     "category": "sports"
   },
   {
-    "id": "NozqtKqbmMA",
-    "title": "INDIA VS NEW ZEALAND 3RD T20I HIGHLIGHTS: ABHISHEK & VAIBHAV HUMILIATE NZ | 3-0 SE INDIA AAGE",
-    "channel": "Sports Yaari",
-    "thumbnail": "https://i.ytimg.com/vi/NozqtKqbmMA/hqdefault.jpg",
-    "duration": 931,
+    "id": "Y_QFILZf9aU",
+    "title": "🔴LIVE: IND W vs ZIM W 2nd ODI 2026 | Live Score & Commentary | India vs Zimbabwe Live Score |",
+    "channel": "RR Com Box",
+    "thumbnail": "https://i.ytimg.com/vi/Y_QFILZf9aU/hqdefault.jpg",
+    "duration": 0,
+    "category": "sports"
+  },
+  {
+    "id": "vn7ulof5FRE",
+    "title": "Inzamam Ul Haq Praises Abhishek Respect Yuvraj After 113 | Ind Vs NZ 3rd T20 Highlights | Pak Reacts",
+    "channel": "HINDUSTAN FIRST",
+    "thumbnail": "https://i.ytimg.com/vi/vn7ulof5FRE/hqdefault.jpg",
+    "duration": 649,
+    "category": "sports"
+  },
+  {
+    "id": "wIgRUus_lnc",
+    "title": "IND vs NZ T20 Highlights 2026, India vs New Zealand 3rd T20 Highlights of Today's Cricket Match",
+    "channel": "Crick Day",
+    "thumbnail": "https://i.ytimg.com/vi/wIgRUus_lnc/hqdefault.jpg",
+    "duration": 240,
     "category": "sports"
   },
   {
@@ -136,67 +136,27 @@
     "category": "sports"
   },
   {
-    "id": "PX8KV5g1SQM",
-    "title": "EXPLAINED -Asian Games 2026: From 107 to 85 - Which sports hurt India's medal tally in this edition?",
-    "channel": "Sports Today",
-    "thumbnail": "https://i.ytimg.com/vi/PX8KV5g1SQM/hqdefault.jpg",
-    "duration": 327,
+    "id": "3KWIUxJ4ItA",
+    "title": "IND W vs Zim W 3rd ODI Live | India Women vs Zimbabwe Women Live | Live Match Today, RR COM BOX LIVE",
+    "channel": "RR Com Box",
+    "thumbnail": "https://i.ytimg.com/vi/3KWIUxJ4ItA/hqdefault.jpg",
+    "duration": 0,
     "category": "sports"
   },
   {
-    "id": "KJPfp_2mBio",
-    "title": "New Zealand vs India 3rd T20I Watch Along | #NZvIND | India tour of New Zealand",
-    "channel": "Star Sports",
-    "thumbnail": "https://i.ytimg.com/vi/KJPfp_2mBio/hqdefault.jpg",
-    "duration": 12031,
-    "category": "sports"
-  },
-  {
-    "id": "pGjIRqfUcZo",
-    "title": "🔴IND vs NZ 3rd T20 2026 Match Talk | Live Cricket Match Today | India vs New Zealand | Iqbal Sports",
+    "id": "yZLLXP7fQGM",
+    "title": "🔴LIVE: IND BATTING vs NZ | India vs New Zealand  2026 | Iqbal Sports | IND vs NZ 3rd T20 Live Scores",
     "channel": "Iqbal Sports",
-    "thumbnail": "https://i.ytimg.com/vi/pGjIRqfUcZo/hqdefault.jpg",
-    "duration": 8194,
+    "thumbnail": "https://i.ytimg.com/vi/yZLLXP7fQGM/hqdefault.jpg",
+    "duration": 5152,
     "category": "sports"
   },
   {
-    "id": "xsOUZrSF7nM",
-    "title": "Pak Media Crying Over India Brutally Beating NZ & Abhishek's 113(38) in 3rd T20, Ind Vs Nz 3rd T2...",
-    "channel": "INDIA MY JAAN",
-    "thumbnail": "https://i.ytimg.com/vi/xsOUZrSF7nM/hqdefault.jpg",
-    "duration": 1199,
-    "category": "sports"
-  },
-  {
-    "id": "1k6ri9DhcpM",
-    "title": "एशियन पैरा गेम्स 2026 Complete | Asian Para Games 2026 | Sports Current Affairs 2026 | Sports GK",
-    "channel": "Ravi Study GK",
-    "thumbnail": "https://i.ytimg.com/vi/1k6ri9DhcpM/hqdefault.jpg",
-    "duration": 1396,
-    "category": "sports"
-  },
-  {
-    "id": "7AryM0lJJ6w",
-    "title": "🔴INDIA VS NEW ZEALAND, PAKISTAN VS SRI LANKA LIVE: INDIA DESTROYED NZ SRI LANKA THRASHED PAKISTAN 😱",
-    "channel": "Sports Yaari",
-    "thumbnail": "https://i.ytimg.com/vi/7AryM0lJJ6w/hqdefault.jpg",
-    "duration": 21790,
-    "category": "sports"
-  },
-  {
-    "id": "a9NJZlrjFQ4",
-    "title": "Live: India Vs New Zealand, 3rd T20I, 2026 Series | Live Match Today Score Commentary | CricTalks",
+    "id": "Q8FroO6kF6U",
+    "title": "Live: India vs New Zealand, 3rd T20I Live Match Today 2026 Series Cricket Commentary Score 2nd Inn",
     "channel": "CricTalks",
-    "thumbnail": "https://i.ytimg.com/vi/a9NJZlrjFQ4/hqdefault.jpg",
-    "duration": 26666,
-    "category": "sports"
-  },
-  {
-    "id": "T8qB_RySDOw",
-    "title": "Jalandhar hosts India Sports Goods Expo 2026; Visitors from across India arrive at ISGE",
-    "channel": "True Scoop TV",
-    "thumbnail": "https://i.ytimg.com/vi/T8qB_RySDOw/hqdefault.jpg",
-    "duration": 681,
+    "thumbnail": "https://i.ytimg.com/vi/Q8FroO6kF6U/hqdefault.jpg",
+    "duration": 12512,
     "category": "sports"
   },
   {
@@ -208,43 +168,11 @@
     "category": "sports"
   },
   {
-    "id": "ZlERzOaU110",
-    "title": "Shoaib Akhtar Shocked Abhishek Sharma 113 Destroyed NZ | Ind Vs NZ 3rd T20 Highlights | Pak Reacts",
-    "channel": "HINDUSTAN FIRST",
-    "thumbnail": "https://i.ytimg.com/vi/ZlERzOaU110/hqdefault.jpg",
-    "duration": 6112,
-    "category": "sports"
-  },
-  {
-    "id": "1PWPjBPnrVc",
-    "title": "LIVE: Commonwealth Kabaddi Championship 2026 | Men's Fixtures | #KabaddiChampionship2026",
-    "channel": "Star Sports",
-    "thumbnail": "https://i.ytimg.com/vi/1PWPjBPnrVc/hqdefault.jpg",
-    "duration": 16445,
-    "category": "sports"
-  },
-  {
-    "id": "yfZR1Lm3xbA",
-    "title": "India vs New Zealand 3rd T20 Live | Live Score & Fan Commentary | IND vs NZ Live Score, Iqbal Sports",
-    "channel": "Iqbal Sports",
-    "thumbnail": "https://i.ytimg.com/vi/yfZR1Lm3xbA/hqdefault.jpg",
-    "duration": 11948,
-    "category": "sports"
-  },
-  {
-    "id": "2zQH7FlSHN8",
-    "title": "🔴 Live: IND vs NZ, 3rd T20I Live Commentary, 2026 Series, Cricket Live Match Today Score 1st Inn",
-    "channel": "CricTalks",
-    "thumbnail": "https://i.ytimg.com/vi/2zQH7FlSHN8/hqdefault.jpg",
-    "duration": 19346,
-    "category": "sports"
-  },
-  {
-    "id": "K78g3u7EzWI",
-    "title": "ROAST: IND vs NZ: Team India की करारी जीत, Abhishek Sharma ने फोड़ दिया | Zero Cricket Knowledge",
-    "channel": "The Lallantop",
-    "thumbnail": "https://i.ytimg.com/vi/K78g3u7EzWI/hqdefault.jpg",
-    "duration": 1715,
+    "id": "11yqBFggGAs",
+    "title": "India vs New Zealand T20 LIVE: Ind Vs NZ 3rd T20I | Shreyas Iyer Vs Santner | Sooryavanshi | N18G",
+    "channel": "CNBC-TV18",
+    "thumbnail": "https://i.ytimg.com/vi/11yqBFggGAs/hqdefault.jpg",
+    "duration": 14970,
     "category": "sports"
   },
   {
@@ -256,67 +184,11 @@
     "category": "sports"
   },
   {
-    "id": "EezQC-p4X_E",
-    "title": "Asian Para Games 2026 Sports Current Affairs 2026 | एशियाई पेरा खेल 2026 GK | Asian games 2026",
-    "channel": "Ravi Aditi Classes",
-    "thumbnail": "https://i.ytimg.com/vi/EezQC-p4X_E/hqdefault.jpg",
-    "duration": 1716,
-    "category": "sports"
-  },
-  {
-    "id": "6nR5e2Di4Pc",
-    "title": "Sports Current Affairs 2026 | Sports Current Affairs | 2026 Sports Current Affairs | Sports GK 2026",
-    "channel": "MCQ MASTERY",
-    "thumbnail": "https://i.ytimg.com/vi/6nR5e2Di4Pc/hqdefault.jpg",
-    "duration": 844,
-    "category": "sports"
-  },
-  {
-    "id": "Gw36ktE4QLI",
-    "title": "🔴 India vs New Zealand Live Match Today | Live Cricket Match Today | INDIA vs New Zealand Live",
-    "channel": "Daily SPORTS Speaks",
-    "thumbnail": "https://i.ytimg.com/vi/Gw36ktE4QLI/hqdefault.jpg",
-    "duration": 36452,
-    "category": "sports"
-  },
-  {
-    "id": "FY9Dlrcz2b0",
-    "title": "Exclusive: India’s gold medal winning women boxers from 2026 commonwealth games |Sports Today",
-    "channel": "Sports Today",
-    "thumbnail": "https://i.ytimg.com/vi/FY9Dlrcz2b0/hqdefault.jpg",
-    "duration": 274,
-    "category": "sports"
-  },
-  {
-    "id": "xafgWo2r7is",
-    "title": "Tanveer Shocked by Abhishek's 113 Century & Suryavanshi's 45 Runs vs NZ | India Beats NZ in 3rd T20",
-    "channel": "The Cricket Junction",
-    "thumbnail": "https://i.ytimg.com/vi/xafgWo2r7is/hqdefault.jpg",
-    "duration": 666,
-    "category": "sports"
-  },
-  {
-    "id": "6aXBTvKLous",
-    "title": "🔴Live: India vs New Zealand | 3rd T20I | Live Cricket Score & Commentary",
-    "channel": "Nizam Sports",
-    "thumbnail": "https://i.ytimg.com/vi/6aXBTvKLous/hqdefault.jpg",
-    "duration": 14644,
-    "category": "sports"
-  },
-  {
-    "id": "07JAeKfcNUU",
-    "title": "New Zealand vs India 2nd T20I Watch Along | #NZvIND | India tour of New Zealand",
-    "channel": "Star Sports",
-    "thumbnail": "https://i.ytimg.com/vi/07JAeKfcNUU/hqdefault.jpg",
-    "duration": 14460,
-    "category": "sports"
-  },
-  {
-    "id": "0ljclYQVEQg",
-    "title": "LIVE | India vs New Zealand U20 Rugby Series | Rajgir, Bihar | 27 October 2026",
-    "channel": "Rugby India",
-    "thumbnail": "https://i.ytimg.com/vi/0ljclYQVEQg/hqdefault.jpg",
-    "duration": 7475,
+    "id": "T8qB_RySDOw",
+    "title": "Jalandhar hosts India Sports Goods Expo 2026; Visitors from across India arrive at ISGE",
+    "channel": "True Scoop TV",
+    "thumbnail": "https://i.ytimg.com/vi/T8qB_RySDOw/hqdefault.jpg",
+    "duration": 681,
     "category": "sports"
   },
   {
@@ -328,19 +200,35 @@
     "category": "sports"
   },
   {
-    "id": "S5I_LaOmze4",
-    "title": "FREE FIRE INDIA IS HERE!",
-    "channel": "Free Fire India Official",
-    "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/hqdefault.jpg",
-    "duration": 92,
+    "id": "07JAeKfcNUU",
+    "title": "New Zealand vs India 2nd T20I Watch Along | #NZvIND | India tour of New Zealand",
+    "channel": "Star Sports",
+    "thumbnail": "https://i.ytimg.com/vi/07JAeKfcNUU/hqdefault.jpg",
+    "duration": 14460,
     "category": "sports"
   },
   {
-    "id": "Bh9OQLA1kVw",
-    "title": "India Vs New Zealand 3rd T20 Match Live | IND vs NZ Match Last 2 Over Highlight Score & Commentary",
-    "channel": "CRIC P",
-    "thumbnail": "https://i.ytimg.com/vi/Bh9OQLA1kVw/hqdefault.jpg",
-    "duration": 907,
+    "id": "x-MHheM1FDk",
+    "title": "India vs New Zealand 3 T20 highlights ",
+    "channel": "A2Z shorts",
+    "thumbnail": "https://i.ytimg.com/vi/x-MHheM1FDk/hqdefault.jpg",
+    "duration": 1360,
+    "category": "sports"
+  },
+  {
+    "id": "bmC9qevehWg",
+    "title": "RISING STAR ASIA CUP 2026: INDIA VS PAKISTAN DATE CONFIRMED! ASIA CUP NEW SCHEDULE OUT! 😱 #indvspak",
+    "channel": "Sports Yaari",
+    "thumbnail": "https://i.ytimg.com/vi/bmC9qevehWg/hqdefault.jpg",
+    "duration": 282,
+    "category": "sports"
+  },
+  {
+    "id": "a7mli754aK8",
+    "title": "LIVE - BRICS Traditional & Indigenous Demonstration Games 2026, Ahmedabad | Doordarshan Sports",
+    "channel": "Prasar Bharati Sports",
+    "thumbnail": "https://i.ytimg.com/vi/a7mli754aK8/hqdefault.jpg",
+    "duration": 27342,
     "category": "sports"
   },
   {
@@ -352,6 +240,14 @@
     "category": "sports"
   },
   {
+    "id": "CyxnXV21uaw",
+    "title": "Ind vs Nzl 3rd T20 Match Ind Bat | India vs Newzealand Live Cricket Score & Fan Space🎤",
+    "channel": "Sports khabar ",
+    "thumbnail": "https://i.ytimg.com/vi/CyxnXV21uaw/hqdefault.jpg",
+    "duration": 9025,
+    "category": "sports"
+  },
+  {
     "id": "kJRvyI_0A2E",
     "title": "Sports Room | Asian Games 2026 | Asian Games 2026 | India vs Pakistan Hockey | ARY News",
     "channel": "ARY Sports",
@@ -360,11 +256,27 @@
     "category": "sports"
   },
   {
-    "id": "a7mli754aK8",
-    "title": "LIVE - BRICS Traditional & Indigenous Demonstration Games 2026, Ahmedabad | Doordarshan Sports",
-    "channel": "Prasar Bharati Sports",
-    "thumbnail": "https://i.ytimg.com/vi/a7mli754aK8/hqdefault.jpg",
-    "duration": 27342,
+    "id": "ulL5RhNQFH0",
+    "title": "ASIAN GAMES 2026 | With Memory Hints | Daily Current Affairs Burning Issues #sports",
+    "channel": "Parcham Classes",
+    "thumbnail": "https://i.ytimg.com/vi/ulL5RhNQFH0/hqdefault.jpg",
+    "duration": 3175,
+    "category": "sports"
+  },
+  {
+    "id": "uvOFjEAg2fs",
+    "title": "🔴India vs New Zealand T20 LIVE: Ind Vs NZ 2nd T20 Match LIVE | Vaibhav Sooryavanshi | Santner | N18G",
+    "channel": "CNBC-TV18",
+    "thumbnail": "https://i.ytimg.com/vi/uvOFjEAg2fs/hqdefault.jpg",
+    "duration": 19686,
+    "category": "sports"
+  },
+  {
+    "id": "L869m1oX12k",
+    "title": "India vs New Zealand 2nd T20 Match 2026 Full Highlights | IND vs NZ",
+    "channel": "K Sports Official",
+    "thumbnail": "https://i.ytimg.com/vi/L869m1oX12k/hqdefault.jpg",
+    "duration": 1074,
     "category": "sports"
   },
   {
@@ -384,11 +296,27 @@
     "category": "sports"
   },
   {
-    "id": "ulL5RhNQFH0",
-    "title": "ASIAN GAMES 2026 | With Memory Hints | Daily Current Affairs Burning Issues #sports",
-    "channel": "Parcham Classes",
-    "thumbnail": "https://i.ytimg.com/vi/ulL5RhNQFH0/hqdefault.jpg",
-    "duration": 3175,
+    "id": "tTd6cg2yZ78",
+    "title": "FULL REPLAY: Odisha FC vs NorthEast United FC (0-0) | MG ISL 2026-27",
+    "channel": "MG Indian Super League",
+    "thumbnail": "https://i.ytimg.com/vi/tTd6cg2yZ78/hqdefault.jpg",
+    "duration": 9000,
+    "category": "sports"
+  },
+  {
+    "id": "PVEvB_xafpI",
+    "title": "1st Innings Powerplay | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1J",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/PVEvB_xafpI/hqdefault.jpg",
+    "duration": 523,
+    "category": "sports"
+  },
+  {
+    "id": "_JP8ojX_OCg",
+    "title": "Today's Top 10 Sports News 🔥 | China Open 2026, India vs Uruguay, Asian Games 2026 | MintSports",
+    "channel": "Mint SPORTS",
+    "thumbnail": "https://i.ytimg.com/vi/_JP8ojX_OCg/hqdefault.jpg",
+    "duration": 950,
     "category": "sports"
   },
   {
@@ -400,59 +328,107 @@
     "category": "sports"
   },
   {
-    "id": "ER-Ubz_T5fU",
-    "title": "New Zealand vs India 3rd T20I Highlights 2026 | Abhishek Sharma's Record-Breaking Show!",
-    "channel": "BD VoicE",
-    "thumbnail": "https://i.ytimg.com/vi/ER-Ubz_T5fU/hqdefault.jpg",
-    "duration": 1107,
+    "id": "ysqXhPnv3pY",
+    "title": "Third GOLD Medal for INDIA in Asian Games 2026 | Doordarshan Sports",
+    "channel": "Prasar Bharati Sports",
+    "thumbnail": "https://i.ytimg.com/vi/ysqXhPnv3pY/hqdefault.jpg",
+    "duration": 2490,
     "category": "sports"
   },
   {
-    "id": "4wx7V6Ng_Q0",
-    "title": "Full Highlights | Pakistan vs England | Pakistan ODI Tri-Series 2026 | M9S1H",
+    "id": "fG8n8f_PWQY",
+    "title": "Match Highlights | Pakistan vs Sri Lanka | Pakistan ODI Tri-Series 2026 | Match 5 | M9S1T",
     "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/4wx7V6Ng_Q0/hqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/fG8n8f_PWQY/hqdefault.jpg",
+    "duration": 951,
+    "category": "sports"
+  },
+  {
+    "id": "PwR0z-hHJ2c",
+    "title": "Full Match Highlights | Pakistan vs Sri Lanka | Pakistan ODI Tri-Series 2026 | Match 5 | M9S1T",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/PwR0z-hHJ2c/hqdefault.jpg",
+    "duration": 1738,
+    "category": "sports"
+  },
+  {
+    "id": "9knxAe4tWs8",
+    "title": "SPORTS CURRENT AFFAIRS 2026 | COMPLETE 2026 SPORTS CA | IMPORTANT SPORTS CURRENT AFFAIRS 2026 | 🔥🔥",
+    "channel": "IndoLogus",
+    "thumbnail": "https://i.ytimg.com/vi/9knxAe4tWs8/hqdefault.jpg",
+    "duration": 2197,
+    "category": "sports"
+  },
+  {
+    "id": "dfSXKJO_Mc4",
+    "title": "Asian Games 2026 Day 7 Updates | Aichi-Nagoya | Doordarshan Sports",
+    "channel": "Prasar Bharati Sports",
+    "thumbnail": "https://i.ytimg.com/vi/dfSXKJO_Mc4/hqdefault.jpg",
+    "duration": 1635,
+    "category": "sports"
+  },
+  {
+    "id": "_zlwf9zFmLA",
+    "title": "National Sports Awards 2026 | Khel Ratna Arjun Award 2026 | Sports Current Affairs 2026 ssc railway",
+    "channel": "GK Quiz Prime Time",
+    "thumbnail": "https://i.ytimg.com/vi/_zlwf9zFmLA/hqdefault.jpg",
+    "duration": 668,
+    "category": "sports"
+  },
+  {
+    "id": "esaCpo8CV9Q",
+    "title": "Silly Point | SL beat PAK: Babar & Fakhar Technique Exposed | India No.1 T20I Team? | 27-10-26",
+    "channel": "PTV SPORTS OFFICIAL",
+    "thumbnail": "https://i.ytimg.com/vi/esaCpo8CV9Q/hqdefault.jpg",
+    "duration": 2353,
+    "category": "sports"
+  },
+  {
+    "id": "5Nv_p335k9k",
+    "title": "Sports Current Affairs 2026 🏆 | Jan 2026 to June 2026 | Sports 2026 Current Affairs",
+    "channel": "GK Quest Masters",
+    "thumbnail": "https://i.ytimg.com/vi/5Nv_p335k9k/hqdefault.jpg",
+    "duration": 541,
+    "category": "sports"
+  },
+  {
+    "id": "EbzGoTTg8XI",
+    "title": "OCI PIO Players in ISL 2026 | Sports Passport Explained | Ryan Williams India",
+    "channel": "Professor Kalinga",
+    "thumbnail": "https://i.ytimg.com/vi/EbzGoTTg8XI/hqdefault.jpg",
+    "duration": 575,
+    "category": "sports"
+  },
+  {
+    "id": "qZFcRCtzCfs",
+    "title": "India vs New Zealand 3rd T20 Match highlights l India vs New Zealand l DEEPENDRA CRICKET l #indvsnz",
+    "channel": "Deependra Cricket ",
+    "thumbnail": "https://i.ytimg.com/vi/qZFcRCtzCfs/hqdefault.jpg",
+    "duration": 1294,
+    "category": "sports"
+  },
+  {
+    "id": "FnLTs9jVmA4",
+    "title": "IND WIN: Pak Media Reaction Abhishek Sharma 113 vs NZ | Shoaib Akhtar Crying |IND vs NZ 3rd T20 2026",
+    "channel": "Cricin me",
+    "thumbnail": "https://i.ytimg.com/vi/FnLTs9jVmA4/hqdefault.jpg",
+    "duration": 511,
+    "category": "sports"
+  },
+  {
+    "id": "HtKDe3LLkM4",
+    "title": "Full Match Highlights | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
+    "channel": "Sports Central by DRM",
+    "thumbnail": "https://i.ytimg.com/vi/HtKDe3LLkM4/hqdefault.jpg",
     "duration": 1730,
     "category": "sports"
   },
   {
-    "id": "KClAvtI9u-E",
-    "title": "Full Highlights | England vs Sri Lanka | Match 3 | ODI Tri-Series 2026 | PCB | M9S1H",
+    "id": "9NvQvwYjuHo",
+    "title": "1st Innings Highlights | Pakistan vs England | Pakistan ODI Tri-Series 2026 | M9S1H",
     "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/KClAvtI9u-E/hqdefault.jpg",
-    "duration": 1776,
-    "category": "sports"
-  },
-  {
-    "id": "NllNbtMgVhY",
-    "title": "Match Highlights | Pakistan vs England | Pakistan ODI Tri-Series 2026 | M9S1H",
-    "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/NllNbtMgVhY/hqdefault.jpg",
-    "duration": 980,
-    "category": "sports"
-  },
-  {
-    "id": "waIIin8seZU",
-    "title": "LIVE: India vs New Zealand, 3rd T20I 2026, Live Cricket Match Scores, Commentary, IND vs NZ",
-    "channel": "Cric Axis ",
-    "thumbnail": "https://i.ytimg.com/vi/waIIin8seZU/hqdefault.jpg",
-    "duration": 8940,
-    "category": "sports"
-  },
-  {
-    "id": "9_jAo6m2vsY",
-    "title": "Shoaib Akhtar Crying on Abhishek Sharma 113 vs NZ | Pak Media Crying | IND vs NZ",
-    "channel": "Cricin me",
-    "thumbnail": "https://i.ytimg.com/vi/9_jAo6m2vsY/hqdefault.jpg",
-    "duration": 244,
-    "category": "sports"
-  },
-  {
-    "id": "ddCClNAZ1I8",
-    "title": "🔴IND vs NZ Live : India vs New Zealand 3rd T20 LIVE Score | IND vs NZ Live Match Score Updates",
-    "channel": "moneycontrol",
-    "thumbnail": "https://i.ytimg.com/vi/ddCClNAZ1I8/hqdefault.jpg",
-    "duration": 17271,
+    "thumbnail": "https://i.ytimg.com/vi/9NvQvwYjuHo/hqdefault.jpg",
+    "duration": 760,
     "category": "sports"
   },
   {
@@ -464,83 +440,11 @@
     "category": "sports"
   },
   {
-    "id": "p_ib_hRU35U",
-    "title": "🔴 India vs New Zealand, IND BATTING, 3rd T20I 2026 | Live Cricket Match Scores, Commentary",
-    "channel": "Cric Axis ",
-    "thumbnail": "https://i.ytimg.com/vi/p_ib_hRU35U/hqdefault.jpg",
-    "duration": 4850,
-    "category": "sports"
-  },
-  {
-    "id": "0oUY22xEFBs",
-    "title": "India Champions vs West Indies Champions | 15th Match | #WCL 2026 #indvswi",
-    "channel": "World Championship Of Legends ",
-    "thumbnail": "https://i.ytimg.com/vi/0oUY22xEFBs/hqdefault.jpg",
-    "duration": 1216,
-    "category": "sports"
-  },
-  {
-    "id": "amRv53R8GHU",
-    "title": "Live: India vs New Zealand, 3rd T20I, 2026 Series, Cricket Match Today Score Commentary, CricTalks",
-    "channel": "CricTalks Live",
-    "thumbnail": "https://i.ytimg.com/vi/amRv53R8GHU/hqdefault.jpg",
-    "duration": 21555,
-    "category": "sports"
-  },
-  {
-    "id": "Cv-AX3zYbak",
-    "title": "🔴 LIVE: IND Vs NZ, 3rd T20I, 2026 Series Live Cricket Score Commentary, 2nd Inn Live Match Today",
-    "channel": "CricTalks Live",
-    "thumbnail": "https://i.ytimg.com/vi/Cv-AX3zYbak/hqdefault.jpg",
-    "duration": 12509,
-    "category": "sports"
-  },
-  {
-    "id": "IZFgkPO6664",
-    "title": "🔴 LIVE: IND vs NZ, 3rd T20I 2026, Live Cricket Match Scores, Commentary | India vs New Zealand",
-    "channel": "Cric Axis ",
-    "thumbnail": "https://i.ytimg.com/vi/IZFgkPO6664/hqdefault.jpg",
-    "duration": 15625,
-    "category": "sports"
-  },
-  {
-    "id": "Ry9FA_X7TWM",
-    "title": "🔴LIVE: India vs New Zealand 3rd T20 Cricket Match Score | IND vs NZ 3rd T20 Live Cricket match Today",
-    "channel": "TITAN STRANGE YT",
-    "thumbnail": "https://i.ytimg.com/vi/Ry9FA_X7TWM/hqdefault.jpg",
-    "duration": 12100,
-    "category": "sports"
-  },
-  {
-    "id": "1Aw1OdDXAW8",
-    "title": "1st Innings Highlights | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
-    "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/1Aw1OdDXAW8/hqdefault.jpg",
-    "duration": 760,
-    "category": "sports"
-  },
-  {
-    "id": "wxmCmwpYd44",
-    "title": "2nd Innings Highlights | Pakistan vs Sri Lanka | Pakistan ODI Tri-Series 2026 | Match 5 | M9S1T",
+    "id": "NllNbtMgVhY",
+    "title": "Match Highlights | Pakistan vs England | Pakistan ODI Tri-Series 2026 | M9S1H",
     "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/wxmCmwpYd44/hqdefault.jpg",
-    "duration": 719,
-    "category": "sports"
-  },
-  {
-    "id": "eZkL7Qb6ZtQ",
-    "title": "🔴Live: India vs New Zealand | 3rd T20I | Live Cricket Score & Commentary",
-    "channel": "Nizam Sports",
-    "thumbnail": "https://i.ytimg.com/vi/eZkL7Qb6ZtQ/hqdefault.jpg",
-    "duration": 4710,
-    "category": "sports"
-  },
-  {
-    "id": "zqXV0x0E2x4",
-    "title": "Full Match Highlights | Bangladesh vs Zimbabwe | Match 1 | ODI Tri-Series 2026 | M9R1K",
-    "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/zqXV0x0E2x4/hqdefault.jpg",
-    "duration": 1566,
+    "thumbnail": "https://i.ytimg.com/vi/NllNbtMgVhY/hqdefault.jpg",
+    "duration": 980,
     "category": "sports"
   },
   {
@@ -552,19 +456,11 @@
     "category": "sports"
   },
   {
-    "id": "4aY9xQjBRu0",
-    "title": "Full Match Highlights | Afghanistan vs Zimbabwe | Match 2 | ODI Tri-Series 2026 | M9R1K",
+    "id": "RMCC52EKVUg",
+    "title": "Full Highlights | England vs Sri Lanka | Match 3 | ODI Tri-Series 2026 | PCB | M9S1H",
     "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/4aY9xQjBRu0/hqdefault.jpg",
-    "duration": 1493,
-    "category": "sports"
-  },
-  {
-    "id": "ecibLyFo0SI",
-    "title": "Full Match Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | M9S1H",
-    "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/ecibLyFo0SI/hqdefault.jpg",
-    "duration": 1619,
+    "thumbnail": "https://i.ytimg.com/vi/RMCC52EKVUg/hqdefault.jpg",
+    "duration": 1776,
     "category": "sports"
   },
   {
@@ -576,35 +472,91 @@
     "category": "sports"
   },
   {
-    "id": "7eSKW3IOPpY",
-    "title": "🔴LIVE - IND vs NZ 3rd T20I Cricket match Today | India vs New Zealand 2026 | Cricket 26 Gameplay",
-    "channel": "Xoro The Gamer",
-    "thumbnail": "https://i.ytimg.com/vi/7eSKW3IOPpY/hqdefault.jpg",
-    "duration": 3485,
-    "category": "sports"
-  },
-  {
-    "id": "ru-u0k3GctI",
-    "title": "Live: IND Vs NZ, 3rd T20I, 2026 Series, Cricket Live Match Today Scores & Commentary, Last 13 Ov",
+    "id": "amRv53R8GHU",
+    "title": "Live: India vs New Zealand, 3rd T20I, 2026 Series, Cricket Match Today Score Commentary, CricTalks",
     "channel": "CricTalks Live",
-    "thumbnail": "https://i.ytimg.com/vi/ru-u0k3GctI/hqdefault.jpg",
-    "duration": 15076,
+    "thumbnail": "https://i.ytimg.com/vi/amRv53R8GHU/hqdefault.jpg",
+    "duration": 21555,
     "category": "sports"
   },
   {
-    "id": "t33mT2h54A0",
-    "title": "🔴 Live: India vs New Zealand, 3rd T20I | 2026 Series | Cricket Match Today Score & Commentary",
+    "id": "ecibLyFo0SI",
+    "title": "Full Match Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | M9S1H",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/ecibLyFo0SI/hqdefault.jpg",
+    "duration": 1619,
+    "category": "sports"
+  },
+  {
+    "id": "zqXV0x0E2x4",
+    "title": "Full Match Highlights | Bangladesh vs Zimbabwe | Match 1 | ODI Tri-Series 2026 | M9R1K",
+    "channel": "Sports Central by DRM",
+    "thumbnail": "https://i.ytimg.com/vi/zqXV0x0E2x4/hqdefault.jpg",
+    "duration": 1566,
+    "category": "sports"
+  },
+  {
+    "id": "n3TzV4Jbt-8",
+    "title": "Full Match Highlights | Pakistan vs England | Match 2 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/n3TzV4Jbt-8/hqdefault.jpg",
+    "duration": 1655,
+    "category": "sports"
+  },
+  {
+    "id": "4aY9xQjBRu0",
+    "title": "Full Match Highlights | Afghanistan vs Zimbabwe | Match 2 | ODI Tri-Series 2026 | M9R1K",
+    "channel": "Sports Central by DRM",
+    "thumbnail": "https://i.ytimg.com/vi/4aY9xQjBRu0/hqdefault.jpg",
+    "duration": 1493,
+    "category": "sports"
+  },
+  {
+    "id": "0oUY22xEFBs",
+    "title": "India Champions vs West Indies Champions | 15th Match | #WCL 2026 #indvswi",
+    "channel": "World Championship Of Legends ",
+    "thumbnail": "https://i.ytimg.com/vi/0oUY22xEFBs/hqdefault.jpg",
+    "duration": 1216,
+    "category": "sports"
+  },
+  {
+    "id": "Cv-AX3zYbak",
+    "title": "🔴 LIVE: IND Vs NZ, 3rd T20I, 2026 Series Live Cricket Score Commentary, 2nd Inn Live Match Today",
+    "channel": "CricTalks Live",
+    "thumbnail": "https://i.ytimg.com/vi/Cv-AX3zYbak/hqdefault.jpg",
+    "duration": 12509,
+    "category": "sports"
+  },
+  {
+    "id": "DvRxDfCaJ34",
+    "title": "Pokhara Avengers Vs Sudurpaschim 4th T20 Match | Live Score Analysis & Discussion | NPL T20 Cricket",
+    "channel": "PJ Cric Live",
+    "thumbnail": "https://i.ytimg.com/vi/DvRxDfCaJ34/hqdefault.jpg",
+    "duration": 0,
+    "category": "sports"
+  },
+  {
+    "id": "LjVMtc9HyWY",
+    "title": "🔴 Live: SA vs AUS, Day 2, 3rd Test | 2026 | Today's Cricket Match Score & Commentary",
     "channel": "CricTalks2",
-    "thumbnail": "https://i.ytimg.com/vi/t33mT2h54A0/hqdefault.jpg",
-    "duration": 19167,
+    "thumbnail": "https://i.ytimg.com/vi/LjVMtc9HyWY/hqdefault.jpg",
+    "duration": 0,
     "category": "sports"
   },
   {
-    "id": "CSTRAWxWBwQ",
-    "title": "India v USA | Match Highlights | Men’s T20 World Cup 2026",
-    "channel": "ICC",
-    "thumbnail": "https://i.ytimg.com/vi/CSTRAWxWBwQ/hqdefault.jpg",
-    "duration": 420,
+    "id": "E8D9hNo0Scw",
+    "title": "Review Taken Right On Time, Dramatic Moment | Pak vs Eng | Pakistan ODI Tri-Series 2026 | M9S1H",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/E8D9hNo0Scw/hqdefault.jpg",
+    "duration": 170,
+    "category": "sports"
+  },
+  {
+    "id": "wxmCmwpYd44",
+    "title": "2nd Innings Highlights | Pakistan vs Sri Lanka | Pakistan ODI Tri-Series 2026 | Match 5 | M9S1T",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/wxmCmwpYd44/hqdefault.jpg",
+    "duration": 719,
     "category": "sports"
   },
   {
@@ -616,14 +568,6 @@
     "category": "sports"
   },
   {
-    "id": "27eCZnpGVDc",
-    "title": "🔴 Live: IND vs NZ, 3rd T20I, 2026 Series Live Cricket Match Today, Live Score Commentary 11 Ov",
-    "channel": "CricTalks",
-    "thumbnail": "https://i.ytimg.com/vi/27eCZnpGVDc/hqdefault.jpg",
-    "duration": 16520,
-    "category": "sports"
-  },
-  {
     "id": "_rJNyVmEU_M",
     "title": "Full Highlights | Pakistan vs Sri Lanka | Match 03 | T20I Series 2026 | PCB | M9P1H",
     "channel": "Sports Central by DRM",
@@ -632,11 +576,43 @@
     "category": "sports"
   },
   {
-    "id": "-D4-s_d54lg",
-    "title": "1st Innings Powerplay | Pakistan vs Sri Lanka | Pakistan ODI Tri-Series 2026  Match 5 | M9S1A",
-    "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/-D4-s_d54lg/hqdefault.jpg",
-    "duration": 537,
+    "id": "LPM15KGrHbs",
+    "title": "Salt Smashes 70 off 44 | Highlights - England v India | 3rd Vitality IT20 2026",
+    "channel": "England & Wales Cricket Board",
+    "thumbnail": "https://i.ytimg.com/vi/LPM15KGrHbs/hqdefault.jpg",
+    "duration": 898,
+    "category": "sports"
+  },
+  {
+    "id": "rC8RGgYRAJk",
+    "title": "🔴 Live: IND vs NZ, 2nd T20I Live Commentary, 2026 Series, Cricket Live Match Today Score 1st Inn",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/rC8RGgYRAJk/hqdefault.jpg",
+    "duration": 19974,
+    "category": "sports"
+  },
+  {
+    "id": "uVTiACA7aqE",
+    "title": "WCL 2026 Final | England Champions vs West Indies Champions | Full Match Highlights #WCL #engvswi",
+    "channel": "World Championship Of Legends ",
+    "thumbnail": "https://i.ytimg.com/vi/uVTiACA7aqE/hqdefault.jpg",
+    "duration": 1219,
+    "category": "sports"
+  },
+  {
+    "id": "URiCueaV3hQ",
+    "title": "India W vs Pakistan W | English | Highlights | DP World Women’s Asia Cup 2026",
+    "channel": "Sony LIV",
+    "thumbnail": "https://i.ytimg.com/vi/URiCueaV3hQ/hqdefault.jpg",
+    "duration": 1035,
+    "category": "sports"
+  },
+  {
+    "id": "nNPLrRfN9SU",
+    "title": "England v Pakistan | Urdu Highlights | Men's T20 World Cup 2026",
+    "channel": "ICC",
+    "thumbnail": "https://i.ytimg.com/vi/nNPLrRfN9SU/hqdefault.jpg",
+    "duration": 331,
     "category": "sports"
   },
   {
@@ -648,6 +624,46 @@
     "category": "sports"
   },
   {
+    "id": "6aXBTvKLous",
+    "title": "🔴Live: India vs New Zealand | 3rd T20I | Live Cricket Score & Commentary",
+    "channel": "Nizam Sports",
+    "thumbnail": "https://i.ytimg.com/vi/6aXBTvKLous/hqdefault.jpg",
+    "duration": 14644,
+    "category": "sports"
+  },
+  {
+    "id": "aH0D4ITKTfs",
+    "title": "Wickets Falling Fast! | England Women vs New Zealand & Ireland ODI 2026",
+    "channel": "England & Wales Cricket Board",
+    "thumbnail": "https://i.ytimg.com/vi/aH0D4ITKTfs/hqdefault.jpg",
+    "duration": 4419,
+    "category": "sports"
+  },
+  {
+    "id": "yC9NfyI7yR8",
+    "title": "भारत पहुँचा फाइनल में | Hindi Highlights | IND v ENG | Men’s T20 World Cup 2026",
+    "channel": "ICC",
+    "thumbnail": "https://i.ytimg.com/vi/yC9NfyI7yR8/hqdefault.jpg",
+    "duration": 300,
+    "category": "sports"
+  },
+  {
+    "id": "OlEl40tsw8Y",
+    "title": "🔴 Live: IND vs NZ, 2nd T20I Live Cricket Today, 2026 Series, Live Match Commentary, 1st Inn",
+    "channel": "CricTalks Live",
+    "thumbnail": "https://i.ytimg.com/vi/OlEl40tsw8Y/hqdefault.jpg",
+    "duration": 18682,
+    "category": "sports"
+  },
+  {
+    "id": "6H6fZywmNPQ",
+    "title": "HIGHLIGHTS | Proteas vs Australia | 3rd Test | Day 1",
+    "channel": "Cricket South Africa",
+    "thumbnail": "https://i.ytimg.com/vi/6H6fZywmNPQ/hqdefault.jpg",
+    "duration": 941,
+    "category": "sports"
+  },
+  {
     "id": "XmxLT6HjohM",
     "title": "Pakistan vs Sri Lanka | Full Match Highlights | Pakistan vs Sri Lanka | ODI Tri-Series 2026 | M9S1A",
     "channel": "Sports Central by DRM",
@@ -656,67 +672,91 @@
     "category": "sports"
   },
   {
-    "id": "nFFQtiDNJ7s",
-    "title": "IND vs NZ Highlights 2026 🔥 India vs New Zealand 3rd T20I | Epic Cricket Battle",
-    "channel": "BD VoicE",
-    "thumbnail": "https://i.ytimg.com/vi/nFFQtiDNJ7s/hqdefault.jpg",
-    "duration": 1397,
+    "id": "NFSN2N6CS5Y",
+    "title": "India vs New Zealand 3rd T20 Highlights 🔥 Series Decider! | IND vs NZ Highlights",
+    "channel": "pcm with usa uncovered ",
+    "thumbnail": "https://i.ytimg.com/vi/NFSN2N6CS5Y/hqdefault.jpg",
+    "duration": 1433,
     "category": "sports"
   },
   {
-    "id": "u90pwZFxPtE",
-    "title": "Bangladesh vs West Indies | 1st Test | Day 1 | West Indies tour of Bangladesh 2026",
-    "channel": "Rabbitholebd Sports",
-    "thumbnail": "https://i.ytimg.com/vi/u90pwZFxPtE/hqdefault.jpg",
+    "id": "9xo6qMXV0xM",
+    "title": "LIVE Test Match Cricket | South Africa v Australia | Third Test - Day Two | Cape Town",
+    "channel": "talkSPORT Cricket",
+    "thumbnail": "https://i.ytimg.com/vi/9xo6qMXV0xM/hqdefault.jpg",
     "duration": 0,
     "category": "sports"
   },
   {
-    "id": "HneZRfEuSUk",
-    "title": "Australia vs South 3rd Test Match Day 1 Full Highlights 2026",
-    "channel": "Cricket Expert",
-    "thumbnail": "https://i.ytimg.com/vi/HneZRfEuSUk/hqdefault.jpg",
-    "duration": 1935,
+    "id": "XaBUUmZc1xc",
+    "title": "South Africa vs Australia 3rd Test Live Score | SA vs AUS 3rd Test Day 2 Live Audio Commentary",
+    "channel": "Chandan Commentary",
+    "thumbnail": "https://i.ytimg.com/vi/XaBUUmZc1xc/hqdefault.jpg",
+    "duration": 0,
     "category": "sports"
   },
   {
-    "id": "3ZVD3g0H40Q",
-    "title": "Afghanistan Vs Zimbabwe 1st T20I Cricket Match Full Highlights 2026 | AFG VS Zim",
-    "channel": "Geo Kabaddi",
-    "thumbnail": "https://i.ytimg.com/vi/3ZVD3g0H40Q/hqdefault.jpg",
-    "duration": 1148,
-    "category": "sports"
-  },
-  {
-    "id": "lsKv9sEzqHE",
-    "title": "Sri Lanka Crush Pakistan by 8 Wickets | Pak vs SL | Match Highlights | ODI Tri-Series 2026 | M9S1A",
+    "id": "kK3GWgR-LMI",
+    "title": "Thrilling Last Over | England vs Sri Lanka | Match 3 | ODI Tri-Series 2026 | PCB | M9S1H",
     "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/lsKv9sEzqHE/hqdefault.jpg",
-    "duration": 951,
+    "thumbnail": "https://i.ytimg.com/vi/kK3GWgR-LMI/hqdefault.jpg",
+    "duration": 482,
     "category": "sports"
   },
   {
-    "id": "uMlfshot6t8",
-    "title": "Highlights from 1st Innings | Pakistan vs Sri Lanka | Match 5 | ODI Tri-Series 2026 | M9S1A",
+    "id": "BWsRvB-eql4",
+    "title": "🔴IND-W vs ZIM-W 3rd ODI 2026 | Ind bat | Zimbabwe vs India Women Live Cricket Analysis & Fan Chat",
+    "channel": "Super Cric Zone",
+    "thumbnail": "https://i.ytimg.com/vi/BWsRvB-eql4/hqdefault.jpg",
+    "duration": 0,
+    "category": "sports"
+  },
+  {
+    "id": "8yX2Jnsz4-E",
+    "title": "2nd Innings Highlights | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
     "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/uMlfshot6t8/hqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/8yX2Jnsz4-E/hqdefault.jpg",
+    "duration": 864,
+    "category": "sports"
+  },
+  {
+    "id": "w9Ku2a3j6fc",
+    "title": "FUNNIEST MOMENT EVER IN CRICKET! 😂🤣 | Pak vs Eng | Match 4 | ODI Tri-Series 2026 | M9S1T",
+    "channel": "Sports Central by DRM",
+    "thumbnail": "https://i.ytimg.com/vi/w9Ku2a3j6fc/hqdefault.jpg",
+    "duration": 170,
+    "category": "sports"
+  },
+  {
+    "id": "JJ87vIKceNM",
+    "title": "A Record-Breaking 10th-Wicket Partnership! | Pak vs Eng | Match 4 | ODI Tri-Series 2026 | M9S1T",
+    "channel": "Sports Central by DRM",
+    "thumbnail": "https://i.ytimg.com/vi/JJ87vIKceNM/hqdefault.jpg",
+    "duration": 742,
+    "category": "sports"
+  },
+  {
+    "id": "wsR1EHW6K4E",
+    "title": "1st Innings Highlights | Pakistan vs Sri Lanka | Pakistan ODI Tri-Series 2026 Match 5 | M9S1T",
+    "channel": "Sports TV",
+    "thumbnail": "https://i.ytimg.com/vi/wsR1EHW6K4E/hqdefault.jpg",
     "duration": 946,
     "category": "sports"
   },
   {
-    "id": "RMCC52EKVUg",
-    "title": "Full Highlights | England vs Sri Lanka | Match 3 | ODI Tri-Series 2026 | PCB | M9S1H",
+    "id": "qWED0gxRyZE",
+    "title": "Full Match Highlights | Afghanistan vs Bangladesh | Match 3 | Afghanistan ODI Tri-Series | M9R1K",
     "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/RMCC52EKVUg/hqdefault.jpg",
-    "duration": 1776,
+    "thumbnail": "https://i.ytimg.com/vi/qWED0gxRyZE/hqdefault.jpg",
+    "duration": 1314,
     "category": "sports"
   },
   {
-    "id": "NpnttzOaSBQ",
-    "title": "Asia XI v International XI at The Oval | FULL HIGHLIGHTS | 20 Jun 2005",
-    "channel": "Surrey County Cricket Club",
-    "thumbnail": "https://i.ytimg.com/vi/NpnttzOaSBQ/hqdefault.jpg",
-    "duration": 874,
+    "id": "tRMtKJUxU30",
+    "title": "India vs new Zealand 3rd T20 full highlights 2026",
+    "channel": "Jani Beast ",
+    "thumbnail": "https://i.ytimg.com/vi/tRMtKJUxU30/hqdefault.jpg",
+    "duration": 1430,
     "category": "sports"
   },
   {
@@ -736,67 +776,35 @@
     "category": "sports"
   },
   {
-    "id": "qWED0gxRyZE",
-    "title": "Full Match Highlights | Afghanistan vs Bangladesh | Match 3 | Afghanistan ODI Tri-Series | M9R1K",
-    "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/qWED0gxRyZE/hqdefault.jpg",
-    "duration": 1314,
+    "id": "z3WEiJjv6Rk",
+    "title": "SA vs AUS 1st Test Day 1 Highlights | South Africa vs Australia Test Match Today",
+    "channel": "BD VoicE",
+    "thumbnail": "https://i.ytimg.com/vi/z3WEiJjv6Rk/hqdefault.jpg",
+    "duration": 1336,
     "category": "sports"
   },
   {
-    "id": "6HTy8E_UduQ",
-    "title": "HIGHLIGHTS | Proteas vs Australia | 2nd Test | Day 4",
-    "channel": "Cricket South Africa",
-    "thumbnail": "https://i.ytimg.com/vi/6HTy8E_UduQ/hqdefault.jpg",
-    "duration": 924,
+    "id": "_HubcZuOt4Y",
+    "title": "NZ vs IND 3rd T20I Highlights 2026 🔥 Daryl Mitchell's Power Show | India vs New Zealand",
+    "channel": "BD VoicE",
+    "thumbnail": "https://i.ytimg.com/vi/_HubcZuOt4Y/hqdefault.jpg",
+    "duration": 491,
     "category": "sports"
   },
   {
-    "id": "eE_N-ra1-h8",
-    "title": "HIGHLIGHTS | Proteas vs Australia | 2nd Test | Day 3",
-    "channel": "Cricket South Africa",
-    "thumbnail": "https://i.ytimg.com/vi/eE_N-ra1-h8/hqdefault.jpg",
-    "duration": 900,
+    "id": "aA_zgu4GBK0",
+    "title": "🔴Zimbabwe W vs India W–3rd ODI, Live Match Today | ZIM W vs IND W Live score and Hindi Commentary",
+    "channel": "Cricket Glow",
+    "thumbnail": "https://i.ytimg.com/vi/aA_zgu4GBK0/hqdefault.jpg",
+    "duration": 0,
     "category": "sports"
   },
   {
-    "id": "Eqrnm_AG5Fg",
-    "title": "India vs New Zealand 3rd T20 Match Complete Highlights 2026 |Abhishek DESTROYS Nz in HISTORIC BLITZ!",
-    "channel": "Ismaeel media Talk",
-    "thumbnail": "https://i.ytimg.com/vi/Eqrnm_AG5Fg/hqdefault.jpg",
-    "duration": 245,
-    "category": "sports"
-  },
-  {
-    "id": "VqFSsq3DcY8",
-    "title": "3rd T20 Highlights",
-    "channel": "Sports Edge Cricket",
-    "thumbnail": "https://i.ytimg.com/vi/VqFSsq3DcY8/hqdefault.jpg",
-    "duration": 1034,
-    "category": "sports"
-  },
-  {
-    "id": "8CZTyuGsU9Q",
-    "title": "HIGHLIGHTS | Proteas vs Australia | 2nd Test | Day 2",
-    "channel": "Cricket South Africa",
-    "thumbnail": "https://i.ytimg.com/vi/8CZTyuGsU9Q/hqdefault.jpg",
-    "duration": 760,
-    "category": "sports"
-  },
-  {
-    "id": "q3R-ND4eW_U",
-    "title": "2nd Innings Highlights | England vs Sri Lanka | Match 3 | ODI Tri-Series 2026 | PCB | M9S1H",
-    "channel": "Sports Central by DRM",
-    "thumbnail": "https://i.ytimg.com/vi/q3R-ND4eW_U/hqdefault.jpg",
-    "duration": 932,
-    "category": "sports"
-  },
-  {
-    "id": "n3TzV4Jbt-8",
-    "title": "Full Match Highlights | Pakistan vs England | Match 2 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
-    "channel": "Sports TV",
-    "thumbnail": "https://i.ytimg.com/vi/n3TzV4Jbt-8/hqdefault.jpg",
-    "duration": 1655,
+    "id": "l5eF0-1NpjQ",
+    "title": "Brook Shines With 114* & Buttler Hits 80 | Highlights - England v Sri Lanka | 1st Vitality IT20 2026",
+    "channel": "England & Wales Cricket Board",
+    "thumbnail": "https://i.ytimg.com/vi/l5eF0-1NpjQ/hqdefault.jpg",
+    "duration": 906,
     "category": "sports"
   },
   {
@@ -805,14 +813,6 @@
     "channel": "World Championship Of Legends ",
     "thumbnail": "https://i.ytimg.com/vi/2xnXGkbQ27c/hqdefault.jpg",
     "duration": 1486,
-    "category": "sports"
-  },
-  {
-    "id": "XXGgBVFXuxU",
-    "title": "Full Match Highlights | Pakistan vs Sri Lanka | Match 1 | ODI Tri-Series 2026 | PCB | MZS1K",
-    "channel": "Pakistan Cricket ",
-    "thumbnail": "https://i.ytimg.com/vi/XXGgBVFXuxU/hqdefault.jpg",
-    "duration": 1619,
     "category": "sports"
   },
   {
@@ -832,11 +832,11 @@
     "category": "sports"
   },
   {
-    "id": "6PDASNSZQFI",
-    "title": "San Francisco 49ers vs Atlanta Falcons Game Highlights | 2026 NFL Season Week 7",
+    "id": "iXW84N92-vE",
+    "title": "Miami Dolphins vs. New York Jets Game Highlights | 2026 NFL Season Week 7",
     "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/6PDASNSZQFI/hqdefault.jpg",
-    "duration": 1002,
+    "thumbnail": "https://i.ytimg.com/vi/iXW84N92-vE/hqdefault.jpg",
+    "duration": 912,
     "category": "sports"
   },
   {
@@ -848,6 +848,14 @@
     "category": "sports"
   },
   {
+    "id": "dIfN83Krivs",
+    "title": "Kansas City Chiefs vs. Seattle Seahawks Game Highlights | NFL 2026 Season Week 7",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/dIfN83Krivs/hqdefault.jpg",
+    "duration": 944,
+    "category": "sports"
+  },
+  {
     "id": "wz6HQi6XPDc",
     "title": "Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7",
     "channel": "NFL",
@@ -856,35 +864,11 @@
     "category": "sports"
   },
   {
-    "id": "wBz9oyiikH8",
-    "title": "North Dakota State vs. New Mexico Highlights 10/24/2026 | Mountain West College Football | The CW",
-    "channel": "CW Sports and The CW Network",
-    "thumbnail": "https://i.ytimg.com/vi/wBz9oyiikH8/hqdefault.jpg",
-    "duration": 481,
-    "category": "sports"
-  },
-  {
-    "id": "RoF238s0qGw",
-    "title": "TIGER BOWL 🐯 LSU Tigers vs. Auburn Tigers | Full Game Highlights | ESPN College Football",
-    "channel": "ESPN College Football",
-    "thumbnail": "https://i.ytimg.com/vi/RoF238s0qGw/hqdefault.jpg",
-    "duration": 1159,
-    "category": "sports"
-  },
-  {
-    "id": "kk3qr-4E6Wc",
-    "title": "EVERY Weekend Goal | Matchweek 8 | 2026/27 Premier League Highlights",
-    "channel": "Premier League",
-    "thumbnail": "https://i.ytimg.com/vi/kk3qr-4E6Wc/hqdefault.jpg",
-    "duration": 245,
-    "category": "sports"
-  },
-  {
-    "id": "0D1NGiCC5oc",
-    "title": "GAME OF THE WEEK! Indianapolis Colts vs. Kansas City Chiefs FULL GAME | NFL 2026 Season Week 2",
+    "id": "6PDASNSZQFI",
+    "title": "San Francisco 49ers vs Atlanta Falcons Game Highlights | 2026 NFL Season Week 7",
     "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/0D1NGiCC5oc/hqdefault.jpg",
-    "duration": 8567,
+    "thumbnail": "https://i.ytimg.com/vi/6PDASNSZQFI/hqdefault.jpg",
+    "duration": 1002,
     "category": "sports"
   },
   {
@@ -896,91 +880,11 @@
     "category": "sports"
   },
   {
-    "id": "TPKlbCGbDP8",
-    "title": "Chelsea 0-2 Spurs | HIGHLIGHTS | Premier League 2026/27",
-    "channel": "Chelsea Football Club",
-    "thumbnail": "https://i.ytimg.com/vi/TPKlbCGbDP8/hqdefault.jpg",
-    "duration": 132,
-    "category": "sports"
-  },
-  {
-    "id": "iXW84N92-vE",
-    "title": "Miami Dolphins vs. New York Jets Game Highlights | 2026 NFL Season Week 7",
-    "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/iXW84N92-vE/hqdefault.jpg",
-    "duration": 912,
-    "category": "sports"
-  },
-  {
-    "id": "XThCmx8M92E",
-    "title": "BALLON D’OR 2026 FULL AWARD CEREMONY ",
-    "channel": "Nexus Football",
-    "thumbnail": "https://i.ytimg.com/vi/XThCmx8M92E/hqdefault.jpg",
-    "duration": 717,
-    "category": "sports"
-  },
-  {
     "id": "QIGNqxmBcIQ",
     "title": "FC BARCELONA 1 vs 2 REAL MADRID | LALIGA 2026/27 MD10 🔵🔴",
     "channel": "FC Barcelona",
     "thumbnail": "https://i.ytimg.com/vi/QIGNqxmBcIQ/hqdefault.jpg",
     "duration": 190,
-    "category": "sports"
-  },
-  {
-    "id": "uKx46OqR1Ck",
-    "title": "Harry Kane crowned 2026 Ballon d'Or winner | Sky News coverage",
-    "channel": "Sky News",
-    "thumbnail": "https://i.ytimg.com/vi/uKx46OqR1Ck/hqdefault.jpg",
-    "duration": 140,
-    "category": "sports"
-  },
-  {
-    "id": "kiD9Ub6LUGg",
-    "title": "Best Plays From Sunday! 2026 NFL Season Week 3",
-    "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/kiD9Ub6LUGg/hqdefault.jpg",
-    "duration": 1803,
-    "category": "sports"
-  },
-  {
-    "id": "Wwrh_afNBaA",
-    "title": "GAME OF THE WEEK! Pittsburgh Steelers vs. Cleveland Browns FULL GAME | NFL 2026 Season Week 4",
-    "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/Wwrh_afNBaA/hqdefault.jpg",
-    "duration": 8812,
-    "category": "sports"
-  },
-  {
-    "id": "6uFD3NGt0GE",
-    "title": "Seattle Seahawks vs Denver Broncos Game Highlights | 2026 NFL Season Week 6",
-    "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/6uFD3NGt0GE/hqdefault.jpg",
-    "duration": 1239,
-    "category": "sports"
-  },
-  {
-    "id": "3-vBVOSN5rE",
-    "title": "Texas A&M Aggies vs. Alabama Crimson Tide | Full Game Highlights | ESPN College Football",
-    "channel": "ESPN College Football",
-    "thumbnail": "https://i.ytimg.com/vi/3-vBVOSN5rE/hqdefault.jpg",
-    "duration": 1895,
-    "category": "sports"
-  },
-  {
-    "id": "02h7MB4Re4o",
-    "title": "Best Football Skills 2026",
-    "channel": "SportsHD",
-    "thumbnail": "https://i.ytimg.com/vi/02h7MB4Re4o/hqdefault.jpg",
-    "duration": 530,
-    "category": "sports"
-  },
-  {
-    "id": "EM4Bq_uqLQ0",
-    "title": "Washington Commanders vs San Francisco 49ers Game Highlights | 2026 NFL Season Week 6",
-    "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/EM4Bq_uqLQ0/hqdefault.jpg",
-    "duration": 1095,
     "category": "sports"
   },
   {
@@ -992,43 +896,123 @@
     "category": "sports"
   },
   {
-    "id": "HqEw-qFm5Yg",
-    "title": "GAME OF THE WEEK! Houston Texans vs. Jacksonville Jaguars FULL GAME | NFL 2026 Season Week 6",
+    "id": "7RnrZzPJUJ0",
+    "title": "Los Angeles Rams vs. Las Vegas Raiders Game Highlights | NFL 2026 Season Week 7",
     "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/HqEw-qFm5Yg/hqdefault.jpg",
-    "duration": 8079,
+    "thumbnail": "https://i.ytimg.com/vi/7RnrZzPJUJ0/hqdefault.jpg",
+    "duration": 918,
     "category": "sports"
   },
   {
-    "id": "1-UTMv-dr1g",
-    "title": "WILD FINISH IN THE SEC 🤯 No. 11 Tennessee vs. South Carolina FINAL MOMENTS 👀 | ESPN College Football",
-    "channel": "ESPN",
-    "thumbnail": "https://i.ytimg.com/vi/1-UTMv-dr1g/hqdefault.jpg",
-    "duration": 775,
-    "category": "sports"
-  },
-  {
-    "id": "hyEng1b5j8o",
-    "title": "New England Patriots vs. Seattle Seahawks Game Highlights Week 1 | NFL 2026",
+    "id": "r3NBIs-ABLA",
+    "title": "Green Bay Packers vs Detroit Lions Game Highlights | 2026 NFL Season Week 7",
     "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/hyEng1b5j8o/hqdefault.jpg",
-    "duration": 951,
+    "thumbnail": "https://i.ytimg.com/vi/r3NBIs-ABLA/hqdefault.jpg",
+    "duration": 913,
     "category": "sports"
   },
   {
-    "id": "SjumRdNESKg",
-    "title": "Portugal vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™",
-    "channel": "FOX Sports",
-    "thumbnail": "https://i.ytimg.com/vi/SjumRdNESKg/hqdefault.jpg",
-    "duration": 1105,
+    "id": "TPKlbCGbDP8",
+    "title": "Chelsea 0-2 Spurs | HIGHLIGHTS | Premier League 2026/27",
+    "channel": "Chelsea Football Club",
+    "thumbnail": "https://i.ytimg.com/vi/TPKlbCGbDP8/hqdefault.jpg",
+    "duration": 132,
     "category": "sports"
   },
   {
-    "id": "42ovN5rW79U",
-    "title": "Highlights | Brazil 1-2 Norway | FIFA World Cup 2026™",
-    "channel": "FIFA",
-    "thumbnail": "https://i.ytimg.com/vi/42ovN5rW79U/hqdefault.jpg",
-    "duration": 131,
+    "id": "0D1NGiCC5oc",
+    "title": "GAME OF THE WEEK! Indianapolis Colts vs. Kansas City Chiefs FULL GAME | NFL 2026 Season Week 2",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/0D1NGiCC5oc/hqdefault.jpg",
+    "duration": 8567,
+    "category": "sports"
+  },
+  {
+    "id": "LJRRMbR4BrE",
+    "title": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights | 2026 NFL Season Week 7",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/LJRRMbR4BrE/hqdefault.jpg",
+    "duration": 979,
+    "category": "sports"
+  },
+  {
+    "id": "IxDJvqHlpbQ",
+    "title": "GAME OF THE WEEK! Baltimore Ravens vs. Dallas Cowboys FULL GAME | NFL 2026 Season Week 3",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/IxDJvqHlpbQ/hqdefault.jpg",
+    "duration": 8367,
+    "category": "sports"
+  },
+  {
+    "id": "R4KretUJJMA",
+    "title": "RIVALS CLASH! San Francisco 49ers vs. Seattle Seahawks FULL GAME | NFL 2026 Season Week 5",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/R4KretUJJMA/hqdefault.jpg",
+    "duration": 7460,
+    "category": "sports"
+  },
+  {
+    "id": "rb3v4bEhmLA",
+    "title": "GAME OF THE WEEK! Chicago Bears vs. Carolina Panthers FULL GAME | NFL 2026 Season Week 1",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/rb3v4bEhmLA/hqdefault.jpg",
+    "duration": 8731,
+    "category": "sports"
+  },
+  {
+    "id": "hFpmnT79xmM",
+    "title": "Best Football Matches of the Year 2026",
+    "channel": "MNXHD",
+    "thumbnail": "https://i.ytimg.com/vi/hFpmnT79xmM/hqdefault.jpg",
+    "duration": 666,
+    "category": "sports"
+  },
+  {
+    "id": "_4OJ6iu8K1I",
+    "title": "Cleveland Browns vs. Tennessee Titans Game Highlights | NFL 2026 Season Week 7",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/_4OJ6iu8K1I/hqdefault.jpg",
+    "duration": 878,
+    "category": "sports"
+  },
+  {
+    "id": "3-vBVOSN5rE",
+    "title": "Texas A&M Aggies vs. Alabama Crimson Tide | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "thumbnail": "https://i.ytimg.com/vi/3-vBVOSN5rE/hqdefault.jpg",
+    "duration": 1895,
+    "category": "sports"
+  },
+  {
+    "id": "Wwrh_afNBaA",
+    "title": "GAME OF THE WEEK! Pittsburgh Steelers vs. Cleveland Browns FULL GAME | NFL 2026 Season Week 4",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/Wwrh_afNBaA/hqdefault.jpg",
+    "duration": 8812,
+    "category": "sports"
+  },
+  {
+    "id": "XThCmx8M92E",
+    "title": "BALLON D’OR 2026 FULL AWARD CEREMONY ",
+    "channel": "Nexus Football",
+    "thumbnail": "https://i.ytimg.com/vi/XThCmx8M92E/hqdefault.jpg",
+    "duration": 717,
+    "category": "sports"
+  },
+  {
+    "id": "wBz9oyiikH8",
+    "title": "North Dakota State vs. New Mexico Highlights 10/24/2026 | Mountain West College Football | The CW",
+    "channel": "CW Sports and The CW Network",
+    "thumbnail": "https://i.ytimg.com/vi/wBz9oyiikH8/hqdefault.jpg",
+    "duration": 481,
+    "category": "sports"
+  },
+  {
+    "id": "6uFD3NGt0GE",
+    "title": "Seattle Seahawks vs Denver Broncos Game Highlights | 2026 NFL Season Week 6",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/6uFD3NGt0GE/hqdefault.jpg",
+    "duration": 1239,
     "category": "sports"
   },
   {
@@ -1040,43 +1024,51 @@
     "category": "sports"
   },
   {
-    "id": "B5OVcasfeTU",
-    "title": "Los Angeles Chargers vs Kansas City Chiefs Game Highlights | 2026 NFL Season Week 6",
+    "id": "efzxdQeODpU",
+    "title": "2026 Ballon d'Or | Red Carpet Pre Show",
+    "channel": "DAZN Football",
+    "thumbnail": "https://i.ytimg.com/vi/efzxdQeODpU/hqdefault.jpg",
+    "duration": 4331,
+    "category": "sports"
+  },
+  {
+    "id": "42ovN5rW79U",
+    "title": "Highlights | Brazil 1-2 Norway | FIFA World Cup 2026™",
+    "channel": "FIFA",
+    "thumbnail": "https://i.ytimg.com/vi/42ovN5rW79U/hqdefault.jpg",
+    "duration": 131,
+    "category": "sports"
+  },
+  {
+    "id": "GP9zR_SKRr0",
+    "title": "Buffalo Bills vs Los Angeles Rams Game Highlights | 2026 NFL Season Week 5",
     "channel": "NFL",
-    "thumbnail": "https://i.ytimg.com/vi/B5OVcasfeTU/hqdefault.jpg",
-    "duration": 989,
+    "thumbnail": "https://i.ytimg.com/vi/GP9zR_SKRr0/hqdefault.jpg",
+    "duration": 1345,
     "category": "sports"
   },
   {
-    "id": "JD4qPfDAejE",
-    "title": "NEW 2026 TOPPS HOLIDAY FOOTBALL MEGA BOXES ARE SOME OF THE MOST FUN BOXES YET! 😱🔥",
-    "channel": "Packman",
-    "thumbnail": "https://i.ytimg.com/vi/JD4qPfDAejE/hqdefault.jpg",
-    "duration": 2236,
+    "id": "RYh8_uw45Fw",
+    "title": "Denver Broncos vs Kansas City Chiefs Game Highlights | 2026 NFL Season Week 1",
+    "channel": "NFL",
+    "thumbnail": "https://i.ytimg.com/vi/RYh8_uw45Fw/hqdefault.jpg",
+    "duration": 1003,
     "category": "sports"
   },
   {
-    "id": "LiysaNUZpx0",
-    "title": "Harry Kane's emotional 2026 Ballon d'Or winner's speech",
+    "id": "uKx46OqR1Ck",
+    "title": "Harry Kane crowned 2026 Ballon d'Or winner | Sky News coverage",
+    "channel": "Sky News",
+    "thumbnail": "https://i.ytimg.com/vi/uKx46OqR1Ck/hqdefault.jpg",
+    "duration": 140,
+    "category": "sports"
+  },
+  {
+    "id": "EuIZqsg_MyM",
+    "title": "Harry Kane narrowly beats Kylian Mbappe to Ballon d'Or as top 10 results revealed",
     "channel": "Sky Sports News",
-    "thumbnail": "https://i.ytimg.com/vi/LiysaNUZpx0/hqdefault.jpg",
-    "duration": 792,
-    "category": "sports"
-  },
-  {
-    "id": "tiC872HeTgQ",
-    "title": "LIVE: JRU vs LPU | NCAA SEASON 102 MEN’S BASKETBALL | OCT 27, 2026",
-    "channel": "One Sports",
-    "thumbnail": "https://i.ytimg.com/vi/tiC872HeTgQ/hqdefault.jpg",
-    "duration": 9366,
-    "category": "sports"
-  },
-  {
-    "id": "ZV4S-0oppyA",
-    "title": "Sports News 27-10-2026",
-    "channel": "SBC",
-    "thumbnail": "https://i.ytimg.com/vi/ZV4S-0oppyA/hqdefault.jpg",
-    "duration": 1138,
+    "thumbnail": "https://i.ytimg.com/vi/EuIZqsg_MyM/hqdefault.jpg",
+    "duration": 878,
     "category": "sports"
   },
   {
@@ -1096,11 +1088,27 @@
     "category": "sports"
   },
   {
-    "id": "xd2sYL3jTTA",
-    "title": "Top 3 Tissot Sprint moments 🤯 | 2026 Australian GP",
-    "channel": "MotoGP",
-    "thumbnail": "https://i.ytimg.com/vi/xd2sYL3jTTA/hqdefault.jpg",
-    "duration": 265,
+    "id": "ZV4S-0oppyA",
+    "title": "Sports News 27-10-2026",
+    "channel": "SBC",
+    "thumbnail": "https://i.ytimg.com/vi/ZV4S-0oppyA/hqdefault.jpg",
+    "duration": 1138,
+    "category": "sports"
+  },
+  {
+    "id": "z4F8rbxfhSc",
+    "title": "Liverpool v. Brighton | PREMIER LEAGUE HIGHLIGHTS | 10/25/2026",
+    "channel": "NBC Sports",
+    "thumbnail": "https://i.ytimg.com/vi/z4F8rbxfhSc/hqdefault.jpg",
+    "duration": 781,
+    "category": "sports"
+  },
+  {
+    "id": "s3k2tqenYms",
+    "title": "Premier League Review: Matchweek 8 (2026-27) | NBC Sports",
+    "channel": "NBC Sports",
+    "thumbnail": "https://i.ytimg.com/vi/s3k2tqenYms/hqdefault.jpg",
+    "duration": 3108,
     "category": "sports"
   },
   {
@@ -1112,14 +1120,6 @@
     "category": "sports"
   },
   {
-    "id": "EuIZqsg_MyM",
-    "title": "Harry Kane narrowly beats Kylian Mbappe to Ballon d'Or as top 10 results revealed",
-    "channel": "Sky Sports News",
-    "thumbnail": "https://i.ytimg.com/vi/EuIZqsg_MyM/hqdefault.jpg",
-    "duration": 878,
-    "category": "sports"
-  },
-  {
     "id": "xKOohD6cYpA",
     "title": "Arsenal v. Everton | PREMIER LEAGUE HIGHLIGHTS | 10/24/2026",
     "channel": "NBC Sports",
@@ -1128,11 +1128,27 @@
     "category": "sports"
   },
   {
-    "id": "foCr5DKtHMc",
-    "title": "Harry Kane becomes first English winner of Ballon d'Or in 25 years",
-    "channel": "Sky Sports News and Sky Sports Football",
-    "thumbnail": "https://i.ytimg.com/vi/foCr5DKtHMc/hqdefault.jpg",
-    "duration": 260,
+    "id": "9Bw1RoPx8uQ",
+    "title": "Toucher & Hardy | 10/28/2026 | 98.5 The Sports Hub",
+    "channel": "98.5 The Sports Hub",
+    "thumbnail": "https://i.ytimg.com/vi/9Bw1RoPx8uQ/hqdefault.jpg",
+    "duration": 0,
+    "category": "sports"
+  },
+  {
+    "id": "AeJtTkUQ1-c",
+    "title": "Sports News 16-06-2026",
+    "channel": "SBC",
+    "thumbnail": "https://i.ytimg.com/vi/AeJtTkUQ1-c/hqdefault.jpg",
+    "duration": 868,
+    "category": "sports"
+  },
+  {
+    "id": "irj8xM1yS58",
+    "title": "McLaren's Lando Norris' honest 2026 reflections with Martin Brundle",
+    "channel": "Sky Sports F1",
+    "thumbnail": "https://i.ytimg.com/vi/irj8xM1yS58/hqdefault.jpg",
+    "duration": 293,
     "category": "sports"
   },
   {
@@ -1152,22 +1168,6 @@
     "category": "sports"
   },
   {
-    "id": "P414ol9Njm8",
-    "title": "Chelsea v. Tottenham Hotspur | PREMIER LEAGUE HIGHLIGHTS | 10/24/2026",
-    "channel": "NBC Sports",
-    "thumbnail": "https://i.ytimg.com/vi/P414ol9Njm8/hqdefault.jpg",
-    "duration": 751,
-    "category": "sports"
-  },
-  {
-    "id": "OtlVZ2FIqOU",
-    "title": "TVJ News | Full Newscast Replay | Tuesday, October 27, 2026",
-    "channel": "Television Jamaica",
-    "thumbnail": "https://i.ytimg.com/vi/OtlVZ2FIqOU/hqdefault.jpg",
-    "duration": 3368,
-    "category": "sports"
-  },
-  {
     "id": "6WRuACsZiVs",
     "title": "Sports News 31-08-2026",
     "channel": "SBC",
@@ -1184,27 +1184,27 @@
     "category": "sports"
   },
   {
-    "id": "irj8xM1yS58",
-    "title": "McLaren's Lando Norris' honest 2026 reflections with Martin Brundle",
-    "channel": "Sky Sports F1",
-    "thumbnail": "https://i.ytimg.com/vi/irj8xM1yS58/hqdefault.jpg",
-    "duration": 293,
+    "id": "V6AXo_L3mwg",
+    "title": "Sports News 14-10-2026",
+    "channel": "SBC",
+    "thumbnail": "https://i.ytimg.com/vi/V6AXo_L3mwg/hqdefault.jpg",
+    "duration": 590,
     "category": "sports"
   },
   {
-    "id": "u19_2ODXGpc",
-    "title": "Highlights | BRAC vs AIUB | Football | ABG University Cup 2026 | T Sports",
-    "channel": "T Sports",
-    "thumbnail": "https://i.ytimg.com/vi/u19_2ODXGpc/hqdefault.jpg",
-    "duration": 784,
+    "id": "P414ol9Njm8",
+    "title": "Chelsea v. Tottenham Hotspur | PREMIER LEAGUE HIGHLIGHTS | 10/24/2026",
+    "channel": "NBC Sports",
+    "thumbnail": "https://i.ytimg.com/vi/P414ol9Njm8/hqdefault.jpg",
+    "duration": 751,
     "category": "sports"
   },
   {
-    "id": "K-iAD4KSpoM",
-    "title": "Tampa Bay Rays Win Game 4! | MLB on FOX",
-    "channel": "FOX Sports",
-    "thumbnail": "https://i.ytimg.com/vi/K-iAD4KSpoM/hqdefault.jpg",
-    "duration": 18086,
+    "id": "EQ74or790IM",
+    "title": "Qualifying Highlights | 2026 United States Grand Prix",
+    "channel": "FORMULA 1",
+    "thumbnail": "https://i.ytimg.com/vi/EQ74or790IM/hqdefault.jpg",
+    "duration": 481,
     "category": "sports"
   }
 ]
