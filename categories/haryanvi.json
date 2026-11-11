@@ -1,21 +1,5 @@
 [
   {
-    "id": "YAZ2pHDXQV8",
-    "title": "Seet Lehar (Female Version) - Shiva Choudhary & Filmy | New Haryanvi Song 2026 | Real Music",
-    "channel": "Real Music",
-    "thumbnail": "https://i.ytimg.com/vi/YAZ2pHDXQV8/hqdefault.jpg",
-    "duration": 209,
-    "category": "haryanvi"
-  },
-  {
-    "id": "vPn-RPIqe4w",
-    "title": "Burst Mode (Official Video) | Bintu Pabra | Shiva Choudhary | Sihag Muzik | New Haryanvi Song 2026",
-    "channel": "SARWANG MUSIC",
-    "thumbnail": "https://i.ytimg.com/vi/vPn-RPIqe4w/hqdefault.jpg",
-    "duration": 190,
-    "category": "haryanvi"
-  },
-  {
     "id": "OmQB-LhY_Kk",
     "title": "Narsimha | Masoom Sharma | New Haryanvi Song 2026 | Kay D, Neha Shukla | Latest Haryanvi Song",
     "channel": "T-SERIES HARYANVI",
@@ -24,11 +8,27 @@
     "category": "haryanvi"
   },
   {
+    "id": "YAZ2pHDXQV8",
+    "title": "Seet Lehar (Female Version) - Shiva Choudhary & Filmy | New Haryanvi Song 2026 | Real Music",
+    "channel": "Real Music",
+    "thumbnail": "https://i.ytimg.com/vi/YAZ2pHDXQV8/hqdefault.jpg",
+    "duration": 209,
+    "category": "haryanvi"
+  },
+  {
     "id": "fwsFckC8x4A",
     "title": "✓ Mahnga Saint महंगा सैन्ट - Ajay Hooda | Gori Nagori | New Haryanvi Songs Haryanavi 2026 | DJ Song",
     "channel": "VATS RECORDS",
     "thumbnail": "https://i.ytimg.com/vi/fwsFckC8x4A/hqdefault.jpg",
     "duration": 204,
+    "category": "haryanvi"
+  },
+  {
+    "id": "V3eG0lq1SF8",
+    "title": "Top Things | Khasa Aala Chahar & Shiva Choudhary | Deepty | Harvin Sambhi | New Haryanvi Song 2026",
+    "channel": "Zee Music Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/V3eG0lq1SF8/hqdefault.jpg",
+    "duration": 166,
     "category": "haryanvi"
   },
   {
@@ -48,14 +48,6 @@
     "category": "haryanvi"
   },
   {
-    "id": "V3eG0lq1SF8",
-    "title": "Top Things | Khasa Aala Chahar & Shiva Choudhary | Deepty | Harvin Sambhi | New Haryanvi Song 2026",
-    "channel": "Zee Music Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/V3eG0lq1SF8/hqdefault.jpg",
-    "duration": 166,
-    "category": "haryanvi"
-  },
-  {
     "id": "SZWDoU6FFe8",
     "title": "Tora (Official Music Video) D Naveen | Latest Haryanvi Song 2026 | New Haryanvi Song 2026",
     "channel": "The Hit Factory and D Naveen",
@@ -64,347 +56,11 @@
     "category": "haryanvi"
   },
   {
-    "id": "9zjz1_Kuvsw",
-    "title": "Yaha Ke Bahubali (Official Video) Masoom Sharma | Amar Karnawal | New Haryanvi Songs Haryanavi 2026",
-    "channel": "Sonotek Music",
-    "thumbnail": "https://i.ytimg.com/vi/9zjz1_Kuvsw/hqdefault.jpg",
-    "duration": 199,
-    "category": "haryanvi"
-  },
-  {
-    "id": "XcJVcyZ2vwE",
-    "title": "Hopeless (Official Video) Amanraj Gill | Prem Lata | New Haryanvi Song 2025",
-    "channel": "Nav Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/XcJVcyZ2vwE/hqdefault.jpg",
-    "duration": 196,
-    "category": "haryanvi"
-  },
-  {
-    "id": "4XJ4sdMmTXo",
-    "title": "Maruti (Official Video) Sandeep Surila | Manisha Sh | Palashika Dixit & Mohit Kh | New Haryanvi Song",
-    "channel": "Digiya Music",
-    "thumbnail": "https://i.ytimg.com/vi/4XJ4sdMmTXo/hqdefault.jpg",
-    "duration": 201,
-    "category": "haryanvi"
-  },
-  {
-    "id": "fA29puzthao",
-    "title": "Naina Te War (Official Video) Lakshay Dahiya | Bali Sharma | Riya Baliyan | New Haryanvi Songs 2026",
-    "channel": "Sky High Music",
-    "thumbnail": "https://i.ytimg.com/vi/fA29puzthao/hqdefault.jpg",
-    "duration": 180,
-    "category": "haryanvi"
-  },
-  {
-    "id": "ofEZPmwhpYY",
-    "title": "Jaadu (Official Video) Bali Sharma | Mahi Dhaka | Sannjaay Kadyan | Vampire | New Haryanvi Song 2026",
-    "channel": "Sky High Music",
-    "thumbnail": "https://i.ytimg.com/vi/ofEZPmwhpYY/hqdefault.jpg",
-    "duration": 184,
-    "category": "haryanvi"
-  },
-  {
-    "id": "yrjDEU9F1bw",
-    "title": "Bairi (Official Music Video) Virat, Miss Parul | Pradeep Solanki, Heena | New Rajasthani Song 2026",
-    "channel": "Jhoom Rajasthan",
-    "thumbnail": "https://i.ytimg.com/vi/yrjDEU9F1bw/hqdefault.jpg",
-    "duration": 195,
-    "category": "haryanvi"
-  },
-  {
-    "id": "w4Mk8ixhMZ0",
-    "title": "Hathkadiyan (Official Video) Amanraj Gill | Pragati | Gauhar Dhillon | New Haryanvi Songs 2026",
-    "channel": "Nav Haryanvi and Amanraj Gill",
-    "thumbnail": "https://i.ytimg.com/vi/w4Mk8ixhMZ0/hqdefault.jpg",
-    "duration": 179,
-    "category": "haryanvi"
-  },
-  {
-    "id": "xuaEta6IcCA",
-    "title": "Justin Bieber (Official Video) - Elvish Yadav | Isha Malviya | Anu Amanat | New Haryanvi Song 2026",
-    "channel": "Flame Music and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/xuaEta6IcCA/hqdefault.jpg",
-    "duration": 184,
-    "category": "haryanvi"
-  },
-  {
-    "id": "PRiSzXKA2OY",
-    "title": "Hero Honda (Official Video) Khushi Baliyan, Punit Choudhary, Raj Mawar |New Haryanvi Songs Haryanavi",
-    "channel": "Black White Music",
-    "thumbnail": "https://i.ytimg.com/vi/PRiSzXKA2OY/hqdefault.jpg",
-    "duration": 179,
-    "category": "haryanvi"
-  },
-  {
-    "id": "Z9e-GWG6v80",
-    "title": "Khowa Na (Official Video) Gulab Sidhu | Jasmeen Akhtar | Pranjal Dahiya | New Punjabi Songs 2026",
-    "channel": "DAKU x RECORDS ",
-    "thumbnail": "https://i.ytimg.com/vi/Z9e-GWG6v80/hqdefault.jpg",
-    "duration": 191,
-    "category": "haryanvi"
-  },
-  {
-    "id": "uSlwA5bFHQg",
-    "title": "Old Money | Khasa Aala Chahar &  Manya Yadav | Akshita Sharma | New Haryanvi Song 2026",
-    "channel": "Zee Music Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/uSlwA5bFHQg/hqdefault.jpg",
-    "duration": 197,
-    "category": "haryanvi"
-  },
-  {
-    "id": "knW59VAYtUs",
-    "title": "Bolero Badmashan Ki Gadi (Official Video) Masoom Sharma | Srishati Sharma | New Haryanvi Song 2026",
-    "channel": "Tuffan Music",
-    "thumbnail": "https://i.ytimg.com/vi/knW59VAYtUs/hqdefault.jpg",
-    "duration": 193,
-    "category": "haryanvi"
-  },
-  {
-    "id": "V42F11aGKyI",
-    "title": "Tere Piche (Official Video) Sumit Parta | Xtacy | Sann Sarwang | New Haryanvi Song 2026",
-    "channel": "SARWANG MUSIC and Sumit Parta",
-    "thumbnail": "https://i.ytimg.com/vi/V42F11aGKyI/hqdefault.jpg",
-    "duration": 140,
-    "category": "haryanvi"
-  },
-  {
-    "id": "C9WSwNGI7oM",
-    "title": "Jaat Bagdo (Official Video) | Khasa Aala Chahar | Seerat Bajwa | ROAR | New Haryanvi Song 2026",
-    "channel": "Khasa Aala Chahar",
-    "thumbnail": "https://i.ytimg.com/vi/C9WSwNGI7oM/hqdefault.jpg",
-    "duration": 202,
-    "category": "haryanvi"
-  },
-  {
-    "id": "CwWoYOA_aQc",
-    "title": "Saadi Bholi (Official Video) Amanraj Gill | Pranjal Dahiya | New Haryanvi Songs 2026 | Nav Haryanvi",
-    "channel": "Nav Haryanvi and Amanraj Gill",
-    "thumbnail": "https://i.ytimg.com/vi/CwWoYOA_aQc/hqdefault.jpg",
-    "duration": 171,
-    "category": "haryanvi"
-  },
-  {
-    "id": "Z3X4j0fSMbI",
-    "title": "Baddie बैरन (Official Video) Mandys | Baddie Bairan | SKY |New Haryanvi Songs 2026|@officialmandys",
-    "channel": "Mandys",
-    "thumbnail": "https://i.ytimg.com/vi/Z3X4j0fSMbI/hqdefault.jpg",
-    "duration": 147,
-    "category": "haryanvi"
-  },
-  {
-    "id": "Pe8pLITL1Go",
-    "title": "Bolero Badmashan Ki Gadi (Official Video) Masoom Sharma | Khushi Balyan | New Haryanvi Song 2026",
-    "channel": "Udta Teer",
-    "thumbnail": "https://i.ytimg.com/vi/Pe8pLITL1Go/hqdefault.jpg",
-    "duration": 193,
-    "category": "haryanvi"
-  },
-  {
-    "id": "Z1cHKm-Bww4",
-    "title": "KAHA SE (Official Video) Bintu Pabra | Pranjal Dahiya | Shiva Choudhary | New Haryanvi Song 2026",
-    "channel": "CRA Records",
-    "thumbnail": "https://i.ytimg.com/vi/Z1cHKm-Bww4/hqdefault.jpg",
-    "duration": 211,
-    "category": "haryanvi"
-  },
-  {
-    "id": "p9AUfyilu6E",
-    "title": "Gundagarh : Sukh Deswal (Official Video) Shiva Choudhary | Bintu Pabra | New Haryanvi Song 2026",
-    "channel": "Nav Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/p9AUfyilu6E/hqdefault.jpg",
-    "duration": 205,
-    "category": "haryanvi"
-  },
-  {
-    "id": "xRu1WzcXNXs",
-    "title": "Sheesha (Official Video) : Gaamdi Aala | New Haryanvi Songs Haryanavi 2026",
-    "channel": "Gaamdi Aala",
-    "thumbnail": "https://i.ytimg.com/vi/xRu1WzcXNXs/hqdefault.jpg",
-    "duration": 187,
-    "category": "haryanvi"
-  },
-  {
-    "id": "YrFqAuzrlX0",
-    "title": "Gurgaon (Official Video) - Filmy | AMOR EP | New Haryanvi Song 2026 | Real Music",
-    "channel": "Real Music and Filmy",
-    "thumbnail": "https://i.ytimg.com/vi/YrFqAuzrlX0/hqdefault.jpg",
-    "duration": 190,
-    "category": "haryanvi"
-  },
-  {
-    "id": "JUsXZNT_teI",
-    "title": "Darling (Official Video) Amanraj Gill feat. Sapna Chaudhary | Komal Chaudhary | New Haryanvi Song",
-    "channel": "Mahra Tora and Sapna Choudhary Official",
-    "thumbnail": "https://i.ytimg.com/vi/JUsXZNT_teI/hqdefault.jpg",
-    "duration": 171,
-    "category": "haryanvi"
-  },
-  {
-    "id": "cElqmtXVCek",
-    "title": "✓Gori Chitti (Official Video) Shiva Choudhary | Arohi Raghav | New Haryanvi Song 2026 | DJ Song",
-    "channel": "Prime Records Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/cElqmtXVCek/hqdefault.jpg",
-    "duration": 177,
-    "category": "haryanvi"
-  },
-  {
-    "id": "HDpoMdF2uLI",
-    "title": "KAHA SE - Official Video | Bintu Pabra x Shiva Choudhary | Pranjal Dahiya | Haryanvi Song 2026",
-    "channel": "Deepty",
-    "thumbnail": "https://i.ytimg.com/vi/HDpoMdF2uLI/hqdefault.jpg",
-    "duration": 211,
-    "category": "haryanvi"
-  },
-  {
-    "id": "Zf19u1iAp_M",
-    "title": "Tauba Tauba (Official Video) Khasa Aala Chahar | Sapna Choudhary | ROAR | New Haryanvi Song 2026",
-    "channel": "Khasa Aala Chahar",
-    "thumbnail": "https://i.ytimg.com/vi/Zf19u1iAp_M/hqdefault.jpg",
-    "duration": 206,
-    "category": "haryanvi"
-  },
-  {
-    "id": "xnrimm3MvPY",
-    "title": "100 Te Upper Gaadi (Official Video) | Sukh Deswal | Shiva Choudhary | New Haryanvi Song 2026",
-    "channel": "SARWANG MUSIC",
-    "thumbnail": "https://i.ytimg.com/vi/xnrimm3MvPY/hqdefault.jpg",
-    "duration": 142,
-    "category": "haryanvi"
-  },
-  {
-    "id": "s9AICwTKgOg",
-    "title": "Chatak Matak (Official Video) | Sapna Choudhary | Renuka Panwar | New Haryanvi Songs Haryanavi 2026",
-    "channel": "VATS RECORDS",
-    "thumbnail": "https://i.ytimg.com/vi/s9AICwTKgOg/hqdefault.jpg",
-    "duration": 156,
-    "category": "haryanvi"
-  },
-  {
-    "id": "ixCItqPy52o",
-    "title": "Kaun Marvana (Official Video) Masoom Sharma | Priyam | Shivani Yadav | New Haryanvi Song 2026",
-    "channel": "Nav Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/ixCItqPy52o/hqdefault.jpg",
-    "duration": 197,
-    "category": "haryanvi"
-  },
-  {
-    "id": "XqGNSdi07pk",
-    "title": "Matakni | Sapna Choudhary Dance Performance | Varanasi | New Haryanvi song 2026",
-    "channel": "Sapna Choudhary Official",
-    "thumbnail": "https://i.ytimg.com/vi/XqGNSdi07pk/hqdefault.jpg",
-    "duration": 140,
-    "category": "haryanvi"
-  },
-  {
-    "id": "nwqj0qjc0NM",
-    "title": "WHERE THEY FROM (Official Video) Bintu Pabra | Pranjal Dahiya | Shiva Choudhary | New Haryanvi So...",
-    "channel": "RJ Music Records",
-    "thumbnail": "https://i.ytimg.com/vi/nwqj0qjc0NM/hqdefault.jpg",
-    "duration": 211,
-    "category": "haryanvi"
-  },
-  {
-    "id": "4qqTPFZ1w2M",
-    "title": "Wannabe Jaat (Official Video) Vardan Blues | Ruby Choudhary | Latest Haryanvi Songs 2026 | UVM Urban",
-    "channel": "UVM URBAN",
-    "thumbnail": "https://i.ytimg.com/vi/4qqTPFZ1w2M/hqdefault.jpg",
-    "duration": 163,
-    "category": "haryanvi"
-  },
-  {
-    "id": "xeBxduHmQ-s",
-    "title": "Filmy Fake Saints (Full Song) Masoom Sharma | Amar Karnawal | Pinna Music | New Haryanvi Song 2026",
-    "channel": "Masoom Sharma",
-    "thumbnail": "https://i.ytimg.com/vi/xeBxduHmQ-s/hqdefault.jpg",
-    "duration": 221,
-    "category": "haryanvi"
-  },
-  {
-    "id": "hPnNZFio4-o",
-    "title": "Top Lugai (Official) Pardeep Boora | Pooja Hooda | Sandeep Surila | Neenu | New Haryanvi Song 2026",
-    "channel": "Pardeep Boora",
-    "thumbnail": "https://i.ytimg.com/vi/hPnNZFio4-o/hqdefault.jpg",
-    "duration": 147,
-    "category": "haryanvi"
-  },
-  {
-    "id": "GniG3ILtqlI",
-    "title": "Choudhar Jaata Ki (Official Video) R Maan | Deepty Music | New Haryanvi Song 2026",
-    "channel": "Laado Music",
-    "thumbnail": "https://i.ytimg.com/vi/GniG3ILtqlI/hqdefault.jpg",
-    "duration": 167,
-    "category": "haryanvi"
-  },
-  {
-    "id": "it5aj28NAqA",
-    "title": "40 KG Girl (Official Video) Ajay Hooda | Ruba Khan | Bali Sharma | New Haryanvi Songs 2026 | DJ Song",
-    "channel": "Ajay Hooda",
-    "thumbnail": "https://i.ytimg.com/vi/it5aj28NAqA/hqdefault.jpg",
-    "duration": 185,
-    "category": "haryanvi"
-  },
-  {
-    "id": "8JCpMa08IKc",
-    "title": "WHERE DO THEY COME FROM Official Video Bintu Pabra Pranjal Dahiya Shiva Choudhary New Haryanvi So...",
-    "channel": "RJ Music Records",
-    "thumbnail": "https://i.ytimg.com/vi/8JCpMa08IKc/hqdefault.jpg",
-    "duration": 211,
-    "category": "haryanvi"
-  },
-  {
-    "id": "CRvUk0pXNN0",
-    "title": "Tutte Kaan (Official Video) Girik Aman | Shiva Choudhary | New Haryanvi Songs 2026 | Nav Haryanvi",
-    "channel": "Nav Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/CRvUk0pXNN0/hqdefault.jpg",
-    "duration": 153,
-    "category": "haryanvi"
-  },
-  {
-    "id": "J6F0FAhS7qg",
-    "title": "Gaadi Gundayan Ki (Official Video) Bintu Pabra | Shiva Choudhary | New Haryanvi Song 2026 #newsong",
-    "channel": "White Hill Dhaakad",
-    "thumbnail": "https://i.ytimg.com/vi/J6F0FAhS7qg/hqdefault.jpg",
-    "duration": 207,
-    "category": "haryanvi"
-  },
-  {
-    "id": "uBVslkqNlaA",
-    "title": "Kasht (Official Video) Amanraj Gill | Preeti Choudhary | New Haryanvi Song 2026",
-    "channel": "Dollar Music",
-    "thumbnail": "https://i.ytimg.com/vi/uBVslkqNlaA/hqdefault.jpg",
-    "duration": 161,
-    "category": "haryanvi"
-  },
-  {
-    "id": "qZfWzvUGCJA",
-    "title": "Khokhe (Official Video) Bintu Pabra | Girik Aman | New Haryanvi Song 2026 | Nav Haryanvi",
-    "channel": "Nav Haryanvi and Bintu Pabra",
-    "thumbnail": "https://i.ytimg.com/vi/qZfWzvUGCJA/hqdefault.jpg",
-    "duration": 184,
-    "category": "haryanvi"
-  },
-  {
-    "id": "xxem4BVsT60",
-    "title": "2026 SuperHit Haryanvi DJ Songs | Ajay Hooda | Sapna Chaudhary | Renuka Panwar | New Haryanvi 2026",
-    "channel": "Gulshan Music",
-    "thumbnail": "https://i.ytimg.com/vi/xxem4BVsT60/hqdefault.jpg",
-    "duration": 3628,
-    "category": "haryanvi"
-  },
-  {
-    "id": "AvS8ABt81Q8",
-    "title": "✓ Nach Bindani Dj Pe | Masoom Sharma | Gulshan Music,Jaat Nia,Renuka Panwar | New Haryanvi Song 2026",
-    "channel": "VATS RECORDS",
-    "thumbnail": "https://i.ytimg.com/vi/AvS8ABt81Q8/hqdefault.jpg",
-    "duration": 171,
-    "category": "haryanvi"
-  },
-  {
-    "id": "ZLRicFppjS0",
-    "title": "Kood kood Nachiye (Official Videos) Masoom Sharma | Pranjal Dahiya | Manisha, New Haryanvi Song 2026",
-    "channel": "Jagjit Singh",
-    "thumbnail": "https://i.ytimg.com/vi/ZLRicFppjS0/hqdefault.jpg",
-    "duration": 180,
+    "id": "puj-GWAsX7o",
+    "title": "Careless (Official Video) | Vjay Kharb & Shiva Choudhary | New Haryanvi Song 2026",
+    "channel": "Boom Boom Records",
+    "thumbnail": "https://i.ytimg.com/vi/puj-GWAsX7o/hqdefault.jpg",
+    "duration": 212,
     "category": "haryanvi"
   },
   {
@@ -416,10 +72,282 @@
     "category": "haryanvi"
   },
   {
-    "id": "AsdEIaw9Wks",
-    "title": "Mithe Tere Bol Pari (Official) Masoom Sharma | Aman Jaji | Pranjal Dahiya | New Haryanvi Song 2026",
-    "channel": "Folk Station Haryanvi ",
-    "thumbnail": "https://i.ytimg.com/vi/AsdEIaw9Wks/hqdefault.jpg",
+    "id": "vPn-RPIqe4w",
+    "title": "Burst Mode (Official Video) | Bintu Pabra | Shiva Choudhary | Sihag Muzik | New Haryanvi Song 2026",
+    "channel": "SARWANG MUSIC",
+    "thumbnail": "https://i.ytimg.com/vi/vPn-RPIqe4w/hqdefault.jpg",
+    "duration": 190,
+    "category": "haryanvi"
+  },
+  {
+    "id": "4XJ4sdMmTXo",
+    "title": "Maruti (Official Video) Sandeep Surila | Manisha Sh | Palashika Dixit & Mohit Kh | New Haryanvi Song",
+    "channel": "Digiya Music",
+    "thumbnail": "https://i.ytimg.com/vi/4XJ4sdMmTXo/hqdefault.jpg",
+    "duration": 201,
+    "category": "haryanvi"
+  },
+  {
+    "id": "w4Mk8ixhMZ0",
+    "title": "Hathkadiyan (Official Video) Amanraj Gill | Pragati | Gauhar Dhillon | New Haryanvi Songs 2026",
+    "channel": "Nav Haryanvi and Amanraj Gill",
+    "thumbnail": "https://i.ytimg.com/vi/w4Mk8ixhMZ0/hqdefault.jpg",
+    "duration": 179,
+    "category": "haryanvi"
+  },
+  {
+    "id": "cElqmtXVCek",
+    "title": "✓Gori Chitti (Official Video) Shiva Choudhary | Arohi Raghav | New Haryanvi Song 2026 | DJ Song",
+    "channel": "Prime Records Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/cElqmtXVCek/hqdefault.jpg",
+    "duration": 177,
+    "category": "haryanvi"
+  },
+  {
+    "id": "C9WSwNGI7oM",
+    "title": "Jaat Bagdo (Official Video) | Khasa Aala Chahar | Seerat Bajwa | ROAR | New Haryanvi Song 2026",
+    "channel": "Khasa Aala Chahar",
+    "thumbnail": "https://i.ytimg.com/vi/C9WSwNGI7oM/hqdefault.jpg",
+    "duration": 202,
+    "category": "haryanvi"
+  },
+  {
+    "id": "g9eHtAssgg0",
+    "title": "Chill (Official Video) Bintu Pabra | Shiva Chaudhary | Shivani Yadav | New Haryanvi Songs 2026",
+    "channel": "Digiya Music and Bintu Pabra",
+    "thumbnail": "https://i.ytimg.com/vi/g9eHtAssgg0/hqdefault.jpg",
+    "duration": 203,
+    "category": "haryanvi"
+  },
+  {
+    "id": "ixCItqPy52o",
+    "title": "Kaun Marvana (Official Video) Masoom Sharma | Priyam | Shivani Yadav | New Haryanvi Song 2026",
+    "channel": "Nav Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/ixCItqPy52o/hqdefault.jpg",
+    "duration": 197,
+    "category": "haryanvi"
+  },
+  {
+    "id": "V42F11aGKyI",
+    "title": "Tere Piche (Official Video) Sumit Parta | Xtacy | Sann Sarwang | New Haryanvi Song 2026",
+    "channel": "SARWANG MUSIC and Sumit Parta",
+    "thumbnail": "https://i.ytimg.com/vi/V42F11aGKyI/hqdefault.jpg",
+    "duration": 140,
+    "category": "haryanvi"
+  },
+  {
+    "id": "Z1cHKm-Bww4",
+    "title": "KAHA SE (Official Video) Bintu Pabra | Pranjal Dahiya | Shiva Choudhary | New Haryanvi Song 2026",
+    "channel": "CRA Records",
+    "thumbnail": "https://i.ytimg.com/vi/Z1cHKm-Bww4/hqdefault.jpg",
+    "duration": 211,
+    "category": "haryanvi"
+  },
+  {
+    "id": "YrFqAuzrlX0",
+    "title": "Gurgaon (Official Video) - Filmy | AMOR EP | New Haryanvi Song 2026 | Real Music",
+    "channel": "Real Music and Filmy",
+    "thumbnail": "https://i.ytimg.com/vi/YrFqAuzrlX0/hqdefault.jpg",
+    "duration": 190,
+    "category": "haryanvi"
+  },
+  {
+    "id": "knW59VAYtUs",
+    "title": "Bolero Badmashan Ki Gadi (Official Video) Masoom Sharma | Srishati Sharma | New Haryanvi Song 2026",
+    "channel": "Tuffan Music",
+    "thumbnail": "https://i.ytimg.com/vi/knW59VAYtUs/hqdefault.jpg",
+    "duration": 193,
+    "category": "haryanvi"
+  },
+  {
+    "id": "xeBxduHmQ-s",
+    "title": "Filmy Fake Saints (Full Song) Masoom Sharma | Amar Karnawal | Pinna Music | New Haryanvi Song 2026",
+    "channel": "Masoom Sharma",
+    "thumbnail": "https://i.ytimg.com/vi/xeBxduHmQ-s/hqdefault.jpg",
+    "duration": 221,
+    "category": "haryanvi"
+  },
+  {
+    "id": "lztpg5fTXWw",
+    "title": "Ajay Hooda New Haryanvi Songs | Haryanvi Song Jukebox | New Haryanvi Song | Haryanvi Songs 2026",
+    "channel": "Haryanvi Hits Song",
+    "thumbnail": "https://i.ytimg.com/vi/lztpg5fTXWw/hqdefault.jpg",
+    "duration": 2274,
+    "category": "haryanvi"
+  },
+  {
+    "id": "AasAgD29BKI",
+    "title": "JAWANI (Official Video) - Vishu Puthi | Divyanka S | New Haryanvi Songs 2026",
+    "channel": "Bounce Music",
+    "thumbnail": "https://i.ytimg.com/vi/AasAgD29BKI/hqdefault.jpg",
+    "duration": 214,
+    "category": "haryanvi"
+  },
+  {
+    "id": "HDpoMdF2uLI",
+    "title": "KAHA SE - Official Video | Bintu Pabra x Shiva Choudhary | Pranjal Dahiya | Haryanvi Song 2026",
+    "channel": "Deepty",
+    "thumbnail": "https://i.ytimg.com/vi/HDpoMdF2uLI/hqdefault.jpg",
+    "duration": 211,
+    "category": "haryanvi"
+  },
+  {
+    "id": "ZDm6uBWzcis",
+    "title": "Aawas - Music Video | Bintu Pabra & Shiva Choudhary | Shivani Yadav | New Haryanvi Song 2026",
+    "channel": "Zee Music Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/ZDm6uBWzcis/hqdefault.jpg",
+    "duration": 200,
+    "category": "haryanvi"
+  },
+  {
+    "id": "Pe8pLITL1Go",
+    "title": "Bolero Badmashan Ki Gadi (Official Video) Masoom Sharma | Khushi Balyan | New Haryanvi Song 2026",
+    "channel": "Udta Teer",
+    "thumbnail": "https://i.ytimg.com/vi/Pe8pLITL1Go/hqdefault.jpg",
+    "duration": 193,
+    "category": "haryanvi"
+  },
+  {
+    "id": "JUsXZNT_teI",
+    "title": "Darling (Official Video) Amanraj Gill feat. Sapna Chaudhary | Komal Chaudhary | New Haryanvi Song",
+    "channel": "Mahra Tora and Sapna Choudhary Official",
+    "thumbnail": "https://i.ytimg.com/vi/JUsXZNT_teI/hqdefault.jpg",
+    "duration": 171,
+    "category": "haryanvi"
+  },
+  {
+    "id": "DAgdlvowrng",
+    "title": "Main Vohe (Official Video) Masoom Sharma | Amar Karnawal | Thinker | New Haryanvi Song 2026",
+    "channel": "Masoom Sharma",
+    "thumbnail": "https://i.ytimg.com/vi/DAgdlvowrng/hqdefault.jpg",
+    "duration": 197,
+    "category": "haryanvi"
+  },
+  {
+    "id": "uSlwA5bFHQg",
+    "title": "Old Money | Khasa Aala Chahar &  Manya Yadav | Akshita Sharma | New Haryanvi Song 2026",
+    "channel": "Zee Music Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/uSlwA5bFHQg/hqdefault.jpg",
+    "duration": 197,
+    "category": "haryanvi"
+  },
+  {
+    "id": "8JCpMa08IKc",
+    "title": "WHERE DO THEY COME FROM Official Video Bintu Pabra Pranjal Dahiya Shiva Choudhary New Haryanvi So...",
+    "channel": "RJ Music Records",
+    "thumbnail": "https://i.ytimg.com/vi/8JCpMa08IKc/hqdefault.jpg",
+    "duration": 211,
+    "category": "haryanvi"
+  },
+  {
+    "id": "alX-ld96FpI",
+    "title": "Sintaa - Jadugarni ( Official Music Video)",
+    "channel": "Hit Music Global",
+    "thumbnail": "https://i.ytimg.com/vi/alX-ld96FpI/hqdefault.jpg",
+    "duration": 163,
+    "category": "haryanvi"
+  },
+  {
+    "id": "qU5ezUVgovg",
+    "title": "Jaadu (Official Video) - Filmy & Rawme Hooda | New Haryanvi Song 2026 | Real Music",
+    "channel": "Real Music and Filmy",
+    "thumbnail": "https://i.ytimg.com/vi/qU5ezUVgovg/hqdefault.jpg",
+    "duration": 242,
+    "category": "haryanvi"
+  },
+  {
+    "id": "CwWoYOA_aQc",
+    "title": "Saadi Bholi (Official Video) Amanraj Gill | Pranjal Dahiya | New Haryanvi Songs 2026 | Nav Haryanvi",
+    "channel": "Nav Haryanvi and Amanraj Gill",
+    "thumbnail": "https://i.ytimg.com/vi/CwWoYOA_aQc/hqdefault.jpg",
+    "duration": 171,
+    "category": "haryanvi"
+  },
+  {
+    "id": "7worS4lfOPI",
+    "title": "50 KG Girl (Official Video) Ajay Hooda | Ruba Khan | Bali Sharma | New Haryanvi DJ Songs 2026",
+    "channel": "Nav Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/7worS4lfOPI/hqdefault.jpg",
+    "duration": 188,
+    "category": "haryanvi"
+  },
+  {
+    "id": "J6F0FAhS7qg",
+    "title": "Gaadi Gundayan Ki (Official Video) Bintu Pabra | Shiva Choudhary | New Haryanvi Song 2026 #newsong",
+    "channel": "White Hill Dhaakad",
+    "thumbnail": "https://i.ytimg.com/vi/J6F0FAhS7qg/hqdefault.jpg",
+    "duration": 207,
+    "category": "haryanvi"
+  },
+  {
+    "id": "Lfwhhbo3eaQ",
+    "title": "WHERE DO THEY COME FROM (Official Video) Bintu Pabra | Pranjal Dahiya | Shiva Choudhary | New Har...",
+    "channel": "Singer Kalyan Jaat",
+    "thumbnail": "https://i.ytimg.com/vi/Lfwhhbo3eaQ/hqdefault.jpg",
+    "duration": 211,
+    "category": "haryanvi"
+  },
+  {
+    "id": "hPnNZFio4-o",
+    "title": "Top Lugai (Official) Pardeep Boora | Pooja Hooda | Sandeep Surila | Neenu | New Haryanvi Song 2026",
+    "channel": "Pardeep Boora",
+    "thumbnail": "https://i.ytimg.com/vi/hPnNZFio4-o/hqdefault.jpg",
+    "duration": 147,
+    "category": "haryanvi"
+  },
+  {
+    "id": "xnrimm3MvPY",
+    "title": "100 Te Upper Gaadi (Official Video) | Sukh Deswal | Shiva Choudhary | New Haryanvi Song 2026",
+    "channel": "SARWANG MUSIC",
+    "thumbnail": "https://i.ytimg.com/vi/xnrimm3MvPY/hqdefault.jpg",
+    "duration": 142,
+    "category": "haryanvi"
+  },
+  {
+    "id": "e78Gv26TKS8",
+    "title": "Talashi (Official Video) Sukh Deswal | Shiva Choudhary | Bintu Pabra | New Haryanvi Song 2026",
+    "channel": "Nav Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/e78Gv26TKS8/hqdefault.jpg",
+    "duration": 195,
+    "category": "haryanvi"
+  },
+  {
+    "id": "av96L5hAjl8",
+    "title": "Aur Batao (Official Video) Bintu Pabra, Shiva Choudhary | Nandini Sharma | New Haryanvi Song 2026",
+    "channel": "Prime Records Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/av96L5hAjl8/hqdefault.jpg",
+    "duration": 175,
+    "category": "haryanvi"
+  },
+  {
+    "id": "CRvUk0pXNN0",
+    "title": "Tutte Kaan (Official Video) Girik Aman | Shiva Choudhary | New Haryanvi Songs 2026 | Nav Haryanvi",
+    "channel": "Nav Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/CRvUk0pXNN0/hqdefault.jpg",
+    "duration": 153,
+    "category": "haryanvi"
+  },
+  {
+    "id": "yC-zkNPgluQ",
+    "title": "Tez Nishane - Shiva Choudhary | Its Harrish | Sweta Chauhan | New Haryanvi Song 2026",
+    "channel": "T-SERIES HARYANVI",
+    "thumbnail": "https://i.ytimg.com/vi/yC-zkNPgluQ/hqdefault.jpg",
+    "duration": 188,
+    "category": "haryanvi"
+  },
+  {
+    "id": "BI6NvqHxn50",
+    "title": "2 Jodi Tyre (Official Music Video) Shiva Choudhary | Harsh Gahlot | New Haryanvi Song 2026",
+    "channel": "Nav Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/BI6NvqHxn50/hqdefault.jpg",
+    "duration": 174,
+    "category": "haryanvi"
+  },
+  {
+    "id": "SVKzDXVFYaE",
+    "title": "COURTING - RP Singh ( Official Audio) | Bali Sharma | New Haryanvi Song 2026",
+    "channel": "RP Singh",
+    "thumbnail": "https://i.ytimg.com/vi/SVKzDXVFYaE/hqdefault.jpg",
     "duration": 164,
     "category": "haryanvi"
   },
@@ -432,43 +360,91 @@
     "category": "haryanvi"
   },
   {
-    "id": "HxSbGcy6eo8",
-    "title": "Masoom Sharma : Gaanth (Official Video) Ashu Twinkle | Manjeet Mor | Haryanvi Songs 2026",
-    "channel": "Haryanvi Bol",
-    "thumbnail": "https://i.ytimg.com/vi/HxSbGcy6eo8/hqdefault.jpg",
-    "duration": 154,
-    "category": "haryanvi"
-  },
-  {
-    "id": "puj-GWAsX7o",
-    "title": "Careless (Official Video) | Vjay Kharb & Shiva Choudhary | New Haryanvi Song 2026",
-    "channel": "Boom Boom Records",
-    "thumbnail": "https://i.ytimg.com/vi/puj-GWAsX7o/hqdefault.jpg",
-    "duration": 212,
-    "category": "haryanvi"
-  },
-  {
-    "id": "qU5ezUVgovg",
-    "title": "Jaadu (Official Video) - Filmy & Rawme Hooda | New Haryanvi Song 2026 | Real Music",
-    "channel": "Real Music and Filmy",
-    "thumbnail": "https://i.ytimg.com/vi/qU5ezUVgovg/hqdefault.jpg",
-    "duration": 242,
-    "category": "haryanvi"
-  },
-  {
-    "id": "qY-9FDW7tdY",
-    "title": "Tagdi (Official Video) - Shiva Choudhary | New Haryanvi DJ Songs 2026",
-    "channel": "Shiva Choudhary",
-    "thumbnail": "https://i.ytimg.com/vi/qY-9FDW7tdY/hqdefault.jpg",
-    "duration": 159,
-    "category": "haryanvi"
-  },
-  {
     "id": "PQ52Q3JKa9s",
     "title": "Vikram Sarkar - Scene (Official Video) | Thought | Deepesh Goyal | VYRL Haryanvi 2026",
     "channel": "VYRL Haryanvi and Vikram Sarkar",
     "thumbnail": "https://i.ytimg.com/vi/PQ52Q3JKa9s/hqdefault.jpg",
     "duration": 197,
+    "category": "haryanvi"
+  },
+  {
+    "id": "qZfWzvUGCJA",
+    "title": "Khokhe (Official Video) Bintu Pabra | Girik Aman | New Haryanvi Song 2026 | Nav Haryanvi",
+    "channel": "Nav Haryanvi and Bintu Pabra",
+    "thumbnail": "https://i.ytimg.com/vi/qZfWzvUGCJA/hqdefault.jpg",
+    "duration": 184,
+    "category": "haryanvi"
+  },
+  {
+    "id": "AsdEIaw9Wks",
+    "title": "Mithe Tere Bol Pari (Official) Masoom Sharma | Aman Jaji | Pranjal Dahiya | New Haryanvi Song 2026",
+    "channel": "Folk Station Haryanvi ",
+    "thumbnail": "https://i.ytimg.com/vi/AsdEIaw9Wks/hqdefault.jpg",
+    "duration": 164,
+    "category": "haryanvi"
+  },
+  {
+    "id": "yrjDEU9F1bw",
+    "title": "Bairi (Official Music Video) Virat, Miss Parul | Pradeep Solanki, Heena | New Rajasthani Song 2026",
+    "channel": "Jhoom Rajasthan",
+    "thumbnail": "https://i.ytimg.com/vi/yrjDEU9F1bw/hqdefault.jpg",
+    "duration": 195,
+    "category": "haryanvi"
+  },
+  {
+    "id": "0LCQPI8E9lA",
+    "title": "Ram Bachaye (Official Video) | Shiva Choudhary, Sompal | Arvind Beniwal | New Haryanvi Song 2026",
+    "channel": "Sky High Music",
+    "thumbnail": "https://i.ytimg.com/vi/0LCQPI8E9lA/hqdefault.jpg",
+    "duration": 228,
+    "category": "haryanvi"
+  },
+  {
+    "id": "-XP-cYo4oEA",
+    "title": "Uncha Nicha Rasta - Nonstop Haryanvi Dj Song 2026 | Raj Mawar, Komal C | Bharti Choudhary Dance",
+    "channel": "Seema Music",
+    "thumbnail": "https://i.ytimg.com/vi/-XP-cYo4oEA/hqdefault.jpg",
+    "duration": 158,
+    "category": "haryanvi"
+  },
+  {
+    "id": "fqBuCJodbh4",
+    "title": "KAHA SE - Official Video | Bintu Pabra x Shiva Choudhary | Pranjal Dahiya | Haryanvi Song 2026",
+    "channel": "Upasna Gahlot",
+    "thumbnail": "https://i.ytimg.com/vi/fqBuCJodbh4/hqdefault.jpg",
+    "duration": 211,
+    "category": "haryanvi"
+  },
+  {
+    "id": "4qqTPFZ1w2M",
+    "title": "Wannabe Jaat (Official Video) Vardan Blues | Ruby Choudhary | Latest Haryanvi Songs 2026 | UVM Urban",
+    "channel": "UVM URBAN",
+    "thumbnail": "https://i.ytimg.com/vi/4qqTPFZ1w2M/hqdefault.jpg",
+    "duration": 163,
+    "category": "haryanvi"
+  },
+  {
+    "id": "_KbmXwgM56k",
+    "title": "Uncha Nicha Rasta - Nonstop Haryanvi Dj Song 2026 | Raj Mawar, Komal C | Bharti Choudhary Dance",
+    "channel": "Seema Music",
+    "thumbnail": "https://i.ytimg.com/vi/_KbmXwgM56k/hqdefault.jpg",
+    "duration": 158,
+    "category": "haryanvi"
+  },
+  {
+    "id": "QRu_98X8mPQ",
+    "title": "Sintaa - Haryana Zone ( Official Music Video )",
+    "channel": "Hit Music Global",
+    "thumbnail": "https://i.ytimg.com/vi/QRu_98X8mPQ/hqdefault.jpg",
+    "duration": 157,
+    "category": "haryanvi"
+  },
+  {
+    "id": "ZLRicFppjS0",
+    "title": "Kood kood Nachiye (Official Videos) Masoom Sharma | Pranjal Dahiya | Manisha, New Haryanvi Song 2026",
+    "channel": "Jagjit Singh",
+    "thumbnail": "https://i.ytimg.com/vi/ZLRicFppjS0/hqdefault.jpg",
+    "duration": 180,
     "category": "haryanvi"
   },
   {
@@ -480,99 +456,27 @@
     "category": "haryanvi"
   },
   {
-    "id": "5Sva49eQBYU",
-    "title": "Tagdi (Official Video) - Shiva Choudhary | New Haryanvi Songs 2026 Tagdi (Official Video) -",
-    "channel": "Antra Music Factory",
-    "thumbnail": "https://i.ytimg.com/vi/5Sva49eQBYU/hqdefault.jpg",
-    "duration": 157,
+    "id": "qY-9FDW7tdY",
+    "title": "Tagdi (Official Video) - Shiva Choudhary | New Haryanvi DJ Songs 2026",
+    "channel": "Shiva Choudhary",
+    "thumbnail": "https://i.ytimg.com/vi/qY-9FDW7tdY/hqdefault.jpg",
+    "duration": 159,
     "category": "haryanvi"
   },
   {
-    "id": "g9eHtAssgg0",
-    "title": "Chill (Official Video) Bintu Pabra | Shiva Chaudhary | Shivani Yadav | New Haryanvi Songs 2026",
-    "channel": "Digiya Music and Bintu Pabra",
-    "thumbnail": "https://i.ytimg.com/vi/g9eHtAssgg0/hqdefault.jpg",
-    "duration": 203,
+    "id": "i-cpD57MuDk",
+    "title": "Uncha Nicha Rasta | New Haryanvi Dj Song 2026 | Bharti Choudhary Viral Dance | Heavy Matka Song 2026",
+    "channel": "SF Music",
+    "thumbnail": "https://i.ytimg.com/vi/i-cpD57MuDk/hqdefault.jpg",
+    "duration": 158,
     "category": "haryanvi"
   },
   {
-    "id": "iM3YSSqNwGQ",
-    "title": "MORNI (Official Video) | Renuka Panwar | New Haryanvi Song 2026",
-    "channel": "Digiya Music",
-    "thumbnail": "https://i.ytimg.com/vi/iM3YSSqNwGQ/hqdefault.jpg",
-    "duration": 126,
-    "category": "haryanvi"
-  },
-  {
-    "id": "374YaLH__jU",
-    "title": "Careless (Official Video) | KD DesiRock & Ashu Twinkle | Binder Danoda | New Haryanvi Song 2026",
-    "channel": "HKI MUSIC and KD DESIROCK",
-    "thumbnail": "https://i.ytimg.com/vi/374YaLH__jU/hqdefault.jpg",
-    "duration": 214,
-    "category": "haryanvi"
-  },
-  {
-    "id": "7worS4lfOPI",
-    "title": "50 KG Girl (Official Video) Ajay Hooda | Ruba Khan | Bali Sharma | New Haryanvi DJ Songs 2026",
-    "channel": "Nav Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/7worS4lfOPI/hqdefault.jpg",
-    "duration": 188,
-    "category": "haryanvi"
-  },
-  {
-    "id": "SVKzDXVFYaE",
-    "title": "COURTING - RP Singh ( Official Audio) | Bali Sharma | New Haryanvi Song 2026",
-    "channel": "RP Singh",
-    "thumbnail": "https://i.ytimg.com/vi/SVKzDXVFYaE/hqdefault.jpg",
-    "duration": 164,
-    "category": "haryanvi"
-  },
-  {
-    "id": "Vi7-HjOtyKA",
-    "title": "Tu Cheej Lajwaab | तू चीज लाजबाब | Pardeep Boora & Sapna Chaudhary | New Haryanvi Song",
-    "channel": "Sonotek Digital",
-    "thumbnail": "https://i.ytimg.com/vi/Vi7-HjOtyKA/hqdefault.jpg",
-    "duration": 177,
-    "category": "haryanvi"
-  },
-  {
-    "id": "ZeaqjybbzzM",
-    "title": "WARNING (Official Video) | Masoom Sharma | Malika Kaliraman | Haryanvi Songs Haryanavi 2025",
-    "channel": "Gem Tunes Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/ZeaqjybbzzM/hqdefault.jpg",
-    "duration": 177,
-    "category": "haryanvi"
-  },
-  {
-    "id": "8BjMdoJHzqY",
-    "title": "Non Stop Haryanvi X Punjabi Mashup | Dj Shiv Chauhan | Naam Chale | Tag Awara Ke | Russian Bandana",
-    "channel": "Dj Shiv Chauhan",
-    "thumbnail": "https://i.ytimg.com/vi/8BjMdoJHzqY/hqdefault.jpg",
-    "duration": 1302,
-    "category": "haryanvi"
-  },
-  {
-    "id": "QK_r_yZOTjM",
-    "title": "𝑯𝒂𝒓𝒚𝒂𝒏𝒗𝒊 𝒔𝒐𝒏𝒈𝒔 𝒕𝒉𝒂𝒕 𝒘𝒊𝒍𝒍 𝒎𝒂𝒌𝒆 𝒖 𝒅𝒂𝒏𝒄𝒆 𝒂𝒕 2𝒂𝒎 👀🕺💃",
-    "channel": "zyre",
-    "thumbnail": "https://i.ytimg.com/vi/QK_r_yZOTjM/hqdefault.jpg",
-    "duration": 1137,
-    "category": "haryanvi"
-  },
-  {
-    "id": "ZvXN0TcZLfQ",
-    "title": "Fortuner (Official Video) Gulshan Music,Jaat Nia,Ruchika Jangid | New Haryanvi Songs Haryanavi 2026",
-    "channel": "VATS RECORDS",
-    "thumbnail": "https://i.ytimg.com/vi/ZvXN0TcZLfQ/hqdefault.jpg",
+    "id": "SBgtR8r82t0",
+    "title": "Snap (Official Video) - Sumit Parta | New Haryanvi Song 2026 | Real Music",
+    "channel": "Real Music and Sumit Parta",
+    "thumbnail": "https://i.ytimg.com/vi/SBgtR8r82t0/hqdefault.jpg",
     "duration": 173,
-    "category": "haryanvi"
-  },
-  {
-    "id": "k_0g4WFpYms",
-    "title": "COMPETITION (Official Video) Masoom Sharma | Pranjal Dahiya | Aman Jaji | Manisha, Haryanvi Dj songs",
-    "channel": "Folk Station Haryanvi ",
-    "thumbnail": "https://i.ytimg.com/vi/k_0g4WFpYms/hqdefault.jpg",
-    "duration": 225,
     "category": "haryanvi"
   },
   {
@@ -584,35 +488,51 @@
     "category": "haryanvi"
   },
   {
-    "id": "kRcfvz0vr5M",
-    "title": "ओल्हा में पटोला Olha Song हाय हाय मरजाणी Ajay Hooda | Masoom Sharma | Pooja Hooda | Haryanvi DJ Song",
-    "channel": "Supertone Digital",
-    "thumbnail": "https://i.ytimg.com/vi/kRcfvz0vr5M/hqdefault.jpg",
-    "duration": 203,
+    "id": "xxem4BVsT60",
+    "title": "2026 SuperHit Haryanvi DJ Songs | Ajay Hooda | Sapna Chaudhary | Renuka Panwar | New Haryanvi 2026",
+    "channel": "Gulshan Music",
+    "thumbnail": "https://i.ytimg.com/vi/xxem4BVsT60/hqdefault.jpg",
+    "duration": 3628,
     "category": "haryanvi"
   },
   {
-    "id": "ou-litQ9hWQ",
-    "title": "SOLID BODY || Ajay Hooda & Anjali Raghav || Raju Punjabi & Sheenam || New song of 2015 || Mor Music",
-    "channel": "Mor Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/ou-litQ9hWQ/hqdefault.jpg",
-    "duration": 177,
+    "id": "ZvXN0TcZLfQ",
+    "title": "Fortuner (Official Video) Gulshan Music,Jaat Nia,Ruchika Jangid | New Haryanvi Songs Haryanavi 2026",
+    "channel": "VATS RECORDS",
+    "thumbnail": "https://i.ytimg.com/vi/ZvXN0TcZLfQ/hqdefault.jpg",
+    "duration": 173,
     "category": "haryanvi"
   },
   {
-    "id": "MDrsQMTbOuw",
-    "title": "Ji Laage Se Babya Mai (Official Video) Aman Jaji | Raj Mawar | New Haryanvi Song 2025",
-    "channel": "Aman Jaji",
-    "thumbnail": "https://i.ytimg.com/vi/MDrsQMTbOuw/hqdefault.jpg",
-    "duration": 206,
+    "id": "8BjMdoJHzqY",
+    "title": "Non Stop Haryanvi X Punjabi Mashup | Dj Shiv Chauhan | Naam Chale | Tag Awara Ke | Russian Bandana",
+    "channel": "Dj Shiv Chauhan",
+    "thumbnail": "https://i.ytimg.com/vi/8BjMdoJHzqY/hqdefault.jpg",
+    "duration": 1302,
     "category": "haryanvi"
   },
   {
-    "id": "BQwEkKD_biY",
-    "title": "Ajay Hooda New Haryanvi Songs | Haryanvi Song Jukebox | New Haryanvi Song | Haryanvi Gaane 2025",
-    "channel": "Hit Haryanvi Gaane",
-    "thumbnail": "https://i.ytimg.com/vi/BQwEkKD_biY/hqdefault.jpg",
-    "duration": 5151,
+    "id": "QRnR7aC4Li4",
+    "title": "🔥 All Time Top 50 Haryanvi Dance Songs | 30 Minutes Nonstop DJ Mix | Best Haryanvi Mashup | VIBHOR",
+    "channel": "VIBHOR",
+    "thumbnail": "https://i.ytimg.com/vi/QRnR7aC4Li4/hqdefault.jpg",
+    "duration": 1923,
+    "category": "haryanvi"
+  },
+  {
+    "id": "k_0g4WFpYms",
+    "title": "COMPETITION (Official Video) Masoom Sharma | Pranjal Dahiya | Aman Jaji | Manisha, Haryanvi Dj songs",
+    "channel": "Folk Station Haryanvi ",
+    "thumbnail": "https://i.ytimg.com/vi/k_0g4WFpYms/hqdefault.jpg",
+    "duration": 225,
+    "category": "haryanvi"
+  },
+  {
+    "id": "cZSrWoBMSrg",
+    "title": "Gypsy (Official Video) - GD Kaur ft. Pranjal Dahiya & Dinesh Golan | Haryanvi Song | Real Music",
+    "channel": "Real Music",
+    "thumbnail": "https://i.ytimg.com/vi/cZSrWoBMSrg/hqdefault.jpg",
+    "duration": 156,
     "category": "haryanvi"
   },
   {
@@ -624,19 +544,35 @@
     "category": "haryanvi"
   },
   {
-    "id": "Mlj0hdOG4QQ",
-    "title": "Bahu Kale Ki || Ajay Hooda || Gajender Phogat & Anu Kadyan || New D J song 2018 || Mor Music",
-    "channel": "Mor Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/Mlj0hdOG4QQ/hqdefault.jpg",
-    "duration": 240,
+    "id": "kRcfvz0vr5M",
+    "title": "ओल्हा में पटोला Olha Song हाय हाय मरजाणी Ajay Hooda | Masoom Sharma | Pooja Hooda | Haryanvi DJ Song",
+    "channel": "Supertone Digital",
+    "thumbnail": "https://i.ytimg.com/vi/kRcfvz0vr5M/hqdefault.jpg",
+    "duration": 203,
     "category": "haryanvi"
   },
   {
-    "id": "GaPeCuNIxro",
-    "title": "Jaat Gelya Yaari : Viral Song | Pardeep Boora | New Haryanvi Song | Naveen Punia | Jugni Series",
-    "channel": "Jugni Series",
-    "thumbnail": "https://i.ytimg.com/vi/GaPeCuNIxro/hqdefault.jpg",
-    "duration": 317,
+    "id": "t9dWF8jQRog",
+    "title": "तागड़ी # Tagdi # Ajay Hooda # New DJ Song 2018 # Gagan & Anu Kadyan # Mor Music",
+    "channel": "Mor Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/t9dWF8jQRog/hqdefault.jpg",
+    "duration": 217,
+    "category": "haryanvi"
+  },
+  {
+    "id": "HmzpioXxoC0",
+    "title": "Fortuner (Official Video) Gulshan Music,Jaat Nia,Ruchika Jangid | New Haryanvi Songs Haryanavi 2025",
+    "channel": "Vats Bhakti Geet",
+    "thumbnail": "https://i.ytimg.com/vi/HmzpioXxoC0/hqdefault.jpg",
+    "duration": 173,
+    "category": "haryanvi"
+  },
+  {
+    "id": "R3o8Bw7FaeE",
+    "title": "2026 SuperHit Haryanvi DJ Songs | Sapna Chaudhary | Fortuner | Kallo |Ajay Hooda | New Haryanvi 2026",
+    "channel": "VATS RECORDS",
+    "thumbnail": "https://i.ytimg.com/vi/R3o8Bw7FaeE/hqdefault.jpg",
+    "duration": 1075,
     "category": "haryanvi"
   },
   {
@@ -648,27 +584,19 @@
     "category": "haryanvi"
   },
   {
-    "id": "szUSkYTXq7A",
-    "title": "Ramayan Ka Saar (Full Song) Masoom Sharma | Amar Karnawal | Pinna Music | New Haryanvi Song 2025",
-    "channel": "Masoom Sharma",
-    "thumbnail": "https://i.ytimg.com/vi/szUSkYTXq7A/hqdefault.jpg",
-    "duration": 188,
+    "id": "Mlj0hdOG4QQ",
+    "title": "Bahu Kale Ki || Ajay Hooda || Gajender Phogat & Anu Kadyan || New D J song 2018 || Mor Music",
+    "channel": "Mor Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/Mlj0hdOG4QQ/hqdefault.jpg",
+    "duration": 240,
     "category": "haryanvi"
   },
   {
-    "id": "jxQ8rmu7lW0",
-    "title": "🔥 Balam Layo Fortuner 🚨: Top 10 Haryanvi Hit Songs of 2025 ft. Ruchika Jangid | Jaat Nia #explore",
-    "channel": "Aflatoon Song",
-    "thumbnail": "https://i.ytimg.com/vi/jxQ8rmu7lW0/hqdefault.jpg",
-    "duration": 1720,
-    "category": "haryanvi"
-  },
-  {
-    "id": "PJmpoukKWAw",
-    "title": "Bagdo - Dj Song | Raj Mawar | Manisha Sharma | Khushi Baliyan | Mannu Pahari New Haryanvi Song 2025",
-    "channel": "Star Music Haryanvi and AKKII Records",
-    "thumbnail": "https://i.ytimg.com/vi/PJmpoukKWAw/hqdefault.jpg",
-    "duration": 177,
+    "id": "PRiSzXKA2OY",
+    "title": "Hero Honda (Official Video) Khushi Baliyan, Punit Choudhary, Raj Mawar |New Haryanvi Songs Haryanavi",
+    "channel": "Black White Music",
+    "thumbnail": "https://i.ytimg.com/vi/PRiSzXKA2OY/hqdefault.jpg",
+    "duration": 179,
     "category": "haryanvi"
   },
   {
@@ -677,6 +605,22 @@
     "channel": "Seema Music",
     "thumbnail": "https://i.ytimg.com/vi/-MdJSYvmLrY/hqdefault.jpg",
     "duration": 158,
+    "category": "haryanvi"
+  },
+  {
+    "id": "ZZ86YrRjIOs",
+    "title": "Ramjhol Bole Gi | Masoom Sharma | Sheenam Katholic | Kay D | Aarohi | New Haryanvi Song 2026",
+    "channel": "Sheenam Katholic",
+    "thumbnail": "https://i.ytimg.com/vi/ZZ86YrRjIOs/hqdefault.jpg",
+    "duration": 149,
+    "category": "haryanvi"
+  },
+  {
+    "id": "f2bhlMTsuEo",
+    "title": "Tagdi - Pranjal Dahiya New Song | New Haryanvi Songs 2026 | Haryanvi Songs 2025 | Haryanvi gane",
+    "channel": "Desi Haryanvi Tunes",
+    "thumbnail": "https://i.ytimg.com/vi/f2bhlMTsuEo/hqdefault.jpg",
+    "duration": 895,
     "category": "haryanvi"
   },
   {
@@ -696,27 +640,43 @@
     "category": "haryanvi"
   },
   {
-    "id": "b-xyuhl9axE",
-    "title": "Bagdo - Dj Song | Raj Mawar | Manisha Sharma | Khushi Baliyan | Mannu Pahari New Haryanvi Song 2026",
-    "channel": "Purple Music Official",
-    "thumbnail": "https://i.ytimg.com/vi/b-xyuhl9axE/hqdefault.jpg",
-    "duration": 177,
+    "id": "MDrsQMTbOuw",
+    "title": "Ji Laage Se Babya Mai (Official Video) Aman Jaji | Raj Mawar | New Haryanvi Song 2025",
+    "channel": "Aman Jaji",
+    "thumbnail": "https://i.ytimg.com/vi/MDrsQMTbOuw/hqdefault.jpg",
+    "duration": 206,
     "category": "haryanvi"
   },
   {
-    "id": "i-cpD57MuDk",
-    "title": "Uncha Nicha Rasta | New Haryanvi Dj Song 2026 | Bharti Choudhary Viral Dance | Heavy Matka Song 2026",
-    "channel": "SF Music",
-    "thumbnail": "https://i.ytimg.com/vi/i-cpD57MuDk/hqdefault.jpg",
-    "duration": 158,
+    "id": "SDLa4DtJetA",
+    "title": "2025 SuperHit Haryanvi DJ Songs | Sapna Chaudhary | Renuka Panwar | Ajay Hooda | New Haryanvi 2025",
+    "channel": "VATS RECORDS",
+    "thumbnail": "https://i.ytimg.com/vi/SDLa4DtJetA/hqdefault.jpg",
+    "duration": 1589,
     "category": "haryanvi"
   },
   {
-    "id": "xDMjh6wDL3g",
-    "title": "Lofar - Masoom Sharma (Official Video) Swara Verma | Pinna Music | New Haryanvi Song Haryanvi 2025",
-    "channel": "Sky High Music",
-    "thumbnail": "https://i.ytimg.com/vi/xDMjh6wDL3g/hqdefault.jpg",
-    "duration": 127,
+    "id": "YjK2WzE6J8E",
+    "title": "Mithe Tere Bol Pari - Masoom Sharma | Aman Jaji | Pranjal Dahiya | New Haryanvi Song 2026",
+    "channel": "HR Beats Production",
+    "thumbnail": "https://i.ytimg.com/vi/YjK2WzE6J8E/hqdefault.jpg",
+    "duration": 166,
+    "category": "haryanvi"
+  },
+  {
+    "id": "it5aj28NAqA",
+    "title": "40 KG Girl (Official Video) Ajay Hooda | Ruba Khan | Bali Sharma | New Haryanvi Songs 2026 | DJ Song",
+    "channel": "Ajay Hooda",
+    "thumbnail": "https://i.ytimg.com/vi/it5aj28NAqA/hqdefault.jpg",
+    "duration": 185,
+    "category": "haryanvi"
+  },
+  {
+    "id": "nPeiCj393_Q",
+    "title": "💕Renuka Panwar New Haryanvi Songs💕|| New Haryanvi Jukebox 2025 ||💕Renuka Panwar All Superhit Songs💕",
+    "channel": "DM RECORD MUSIC",
+    "thumbnail": "https://i.ytimg.com/vi/nPeiCj393_Q/hqdefault.jpg",
+    "duration": 1784,
     "category": "haryanvi"
   },
   {
@@ -744,22 +704,6 @@
     "category": "haryanvi"
   },
   {
-    "id": "67kY8VqthNE",
-    "title": "Kitaab | Sheesha | Ijazat | Bairan | Tu Na Samjhe | New Haryanvi Song | Trending Romantic song 2026",
-    "channel": "Samination_Lyrics",
-    "thumbnail": "https://i.ytimg.com/vi/67kY8VqthNE/hqdefault.jpg",
-    "duration": 806,
-    "category": "haryanvi"
-  },
-  {
-    "id": "GX4UPPxhOgA",
-    "title": "My Queen | Official Video | KD DESIROCK | Swara Verma | Muskan Verma | New Haryanvi Song 2026",
-    "channel": "Times Music Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/GX4UPPxhOgA/hqdefault.jpg",
-    "duration": 198,
-    "category": "haryanvi"
-  },
-  {
     "id": "Q5cB4HXjuZI",
     "title": "𝑭𝒆𝒆𝒍  𝑯𝒂𝒓𝒚𝒂𝒏𝒗𝒊 𝑳𝒐𝒗𝒆 𝑩𝒂𝒏𝒈𝒆𝒓 ᥫ᭡",
     "channel": "나리 (Nari)",
@@ -768,11 +712,11 @@
     "category": "haryanvi"
   },
   {
-    "id": "aRNfSqsgrgE",
-    "title": "Sheesha (Official Music Video) | Mitta Ror ft. Swara Verma | Sorab Bedi | Niharika Tiwari",
-    "channel": "Sony Music India and Mitta Ror",
-    "thumbnail": "https://i.ytimg.com/vi/aRNfSqsgrgE/hqdefault.jpg",
-    "duration": 195,
+    "id": "67kY8VqthNE",
+    "title": "Kitaab | Sheesha | Ijazat | Bairan | Tu Na Samjhe | New Haryanvi Song | Trending Romantic song 2026",
+    "channel": "Samination_Lyrics",
+    "thumbnail": "https://i.ytimg.com/vi/67kY8VqthNE/hqdefault.jpg",
+    "duration": 806,
     "category": "haryanvi"
   },
   {
@@ -784,19 +728,27 @@
     "category": "haryanvi"
   },
   {
+    "id": "GX4UPPxhOgA",
+    "title": "My Queen | Official Video | KD DESIROCK | Swara Verma | Muskan Verma | New Haryanvi Song 2026",
+    "channel": "Times Music Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/GX4UPPxhOgA/hqdefault.jpg",
+    "duration": 198,
+    "category": "haryanvi"
+  },
+  {
+    "id": "aRNfSqsgrgE",
+    "title": "Sheesha (Official Music Video) | Mitta Ror ft. Swara Verma | Sorab Bedi | Niharika Tiwari",
+    "channel": "Sony Music India and Mitta Ror",
+    "thumbnail": "https://i.ytimg.com/vi/aRNfSqsgrgE/hqdefault.jpg",
+    "duration": 195,
+    "category": "haryanvi"
+  },
+  {
     "id": "1TlHM1lR09o",
     "title": "Mahila Mittar (FULL SONG) - Masoom Sharma, Khushi Baliyan, Kulbir, Komal C | New Haryanvi Songs 2025",
     "channel": "DAKS Music",
     "thumbnail": "https://i.ytimg.com/vi/1TlHM1lR09o/hqdefault.jpg",
     "duration": 239,
-    "category": "haryanvi"
-  },
-  {
-    "id": "dPu3tdsUSVM",
-    "title": "Haaye Re",
-    "channel": "Banjaare",
-    "thumbnail": "https://i.ytimg.com/vi/dPu3tdsUSVM/hqdefault.jpg",
-    "duration": 157,
     "category": "haryanvi"
   },
   {
@@ -808,11 +760,19 @@
     "category": "haryanvi"
   },
   {
-    "id": "efbKUmeY-BY",
-    "title": "Falani (Official Music Video) Vikram Sarkar | New Haryanvi Songs 2025 | Latest Haryanvi Songs 2025",
-    "channel": "All Good Music",
-    "thumbnail": "https://i.ytimg.com/vi/efbKUmeY-BY/hqdefault.jpg",
-    "duration": 247,
+    "id": "U51_5ED9o4c",
+    "title": "Bullet Pe Gediyan | Kaptaan, Fiza Choudhary | Ashu Twinkle | New Haryanvi Songs Haryanavi 2023",
+    "channel": "Nav Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/U51_5ED9o4c/hqdefault.jpg",
+    "duration": 189,
+    "category": "haryanvi"
+  },
+  {
+    "id": "3Tbnt0Vingg",
+    "title": "Haryanvi Songs | Ishq | Haryanavi DJ Songs 2017 | Mandeep Rana, Anjali Raghav | VOHM",
+    "channel": "Voice of Heart Music",
+    "thumbnail": "https://i.ytimg.com/vi/3Tbnt0Vingg/hqdefault.jpg",
+    "duration": 197,
     "category": "haryanvi"
   },
   {
@@ -824,11 +784,19 @@
     "category": "haryanvi"
   },
   {
-    "id": "T-ONOkhGITE",
-    "title": "Apsara (Official Video) | Billa Sonipat Ala | Guri Nimana | Latest Haryanvi Romantic Song 2024 |",
-    "channel": "White Hill Dhaakad",
-    "thumbnail": "https://i.ytimg.com/vi/T-ONOkhGITE/hqdefault.jpg",
-    "duration": 271,
+    "id": "OdbrTKjTs-g",
+    "title": "\"Soven De Piya\" - New Haryanvi Romantic Song - Full Song 2017 - TR - Sonu Kundu - Sonika Singh -NDJ",
+    "channel": "NDJ Film Official",
+    "thumbnail": "https://i.ytimg.com/vi/OdbrTKjTs-g/hqdefault.jpg",
+    "duration": 190,
+    "category": "haryanvi"
+  },
+  {
+    "id": "efbKUmeY-BY",
+    "title": "Falani (Official Music Video) Vikram Sarkar | New Haryanvi Songs 2025 | Latest Haryanvi Songs 2025",
+    "channel": "All Good Music",
+    "thumbnail": "https://i.ytimg.com/vi/efbKUmeY-BY/hqdefault.jpg",
+    "duration": 247,
     "category": "haryanvi"
   },
   {
@@ -840,27 +808,19 @@
     "category": "haryanvi"
   },
   {
-    "id": "oxjcKVjojKk",
-    "title": "Meri Family Ne Chahiye Clean Shave Banda | Weapon Song | KD DESIROCK |Pranjal Dahiya  Haryanvi Song",
-    "channel": "Aansh Music",
-    "thumbnail": "https://i.ytimg.com/vi/oxjcKVjojKk/hqdefault.jpg",
-    "duration": 251,
+    "id": "i52TYO13Nyg",
+    "title": "SHEESHA | Aakhya Mai Aakh Ghali Jo Bairan | Mitta Ror Ft. Swara Verma | Viral Song 2026",
+    "channel": "Mitta Ror",
+    "thumbnail": "https://i.ytimg.com/vi/i52TYO13Nyg/hqdefault.jpg",
+    "duration": 199,
     "category": "haryanvi"
   },
   {
-    "id": "OdbrTKjTs-g",
-    "title": "\"Soven De Piya\" - New Haryanvi Romantic Song - Full Song 2017 - TR - Sonu Kundu - Sonika Singh -NDJ",
-    "channel": "NDJ Film Official",
-    "thumbnail": "https://i.ytimg.com/vi/OdbrTKjTs-g/hqdefault.jpg",
-    "duration": 190,
-    "category": "haryanvi"
-  },
-  {
-    "id": "bpw9HL6Qi_k",
-    "title": "MOHTARMA | Khasa Aala Chahar | Upasna Gahlot | Haryanvi Songs 2022 | Han Ji Bilkul Pyaar Karenge",
+    "id": "Wajq71LOyTo",
+    "title": "2 Gulaab (Official Video) BILLA SONIPAT ALA | Guri Nimana | Haryanvi Songs Haryanavi 2021",
     "channel": "White Hill Dhaakad",
-    "thumbnail": "https://i.ytimg.com/vi/bpw9HL6Qi_k/hqdefault.jpg",
-    "duration": 224,
+    "thumbnail": "https://i.ytimg.com/vi/Wajq71LOyTo/hqdefault.jpg",
+    "duration": 157,
     "category": "haryanvi"
   },
   {
@@ -872,27 +832,27 @@
     "category": "haryanvi"
   },
   {
-    "id": "cZSrWoBMSrg",
-    "title": "Gypsy (Official Video) - GD Kaur ft. Pranjal Dahiya & Dinesh Golan | Haryanvi Song | Real Music",
-    "channel": "Real Music",
-    "thumbnail": "https://i.ytimg.com/vi/cZSrWoBMSrg/hqdefault.jpg",
-    "duration": 156,
+    "id": "ou-litQ9hWQ",
+    "title": "SOLID BODY || Ajay Hooda & Anjali Raghav || Raju Punjabi & Sheenam || New song of 2015 || Mor Music",
+    "channel": "Mor Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/ou-litQ9hWQ/hqdefault.jpg",
+    "duration": 177,
     "category": "haryanvi"
   },
   {
-    "id": "ua6GpI8ugxY",
-    "title": "Gaadi Paache Gaadi (Official Video) Amanraj Gill, Pranjal Dahiya | New Haryanvi Songs Haryanavi 2022",
-    "channel": "Nav Haryanvi and Amanraj Gill",
-    "thumbnail": "https://i.ytimg.com/vi/ua6GpI8ugxY/hqdefault.jpg",
-    "duration": 195,
+    "id": "QK_r_yZOTjM",
+    "title": "𝑯𝒂𝒓𝒚𝒂𝒏𝒗𝒊 𝒔𝒐𝒏𝒈𝒔 𝒕𝒉𝒂𝒕 𝒘𝒊𝒍𝒍 𝒎𝒂𝒌𝒆 𝒖 𝒅𝒂𝒏𝒄𝒆 𝒂𝒕 2𝒂𝒎 👀🕺💃",
+    "channel": "zyre",
+    "thumbnail": "https://i.ytimg.com/vi/QK_r_yZOTjM/hqdefault.jpg",
+    "duration": 1137,
     "category": "haryanvi"
   },
   {
-    "id": "ApnrYpdBrco",
-    "title": "Jaat Intro (Official Video) Ajay Bhagta | Manisha Sharma | Pranjal Dahiya | SKY |Haryanvi Songs 2025",
-    "channel": "Golden Tunes",
-    "thumbnail": "https://i.ytimg.com/vi/ApnrYpdBrco/hqdefault.jpg",
-    "duration": 154,
+    "id": "vmELhJZWorM",
+    "title": "Bahu Chaudhariya Ki (Official Video) Aman Jaji | Pranjal Dahiya | Haryanvi songs Haryanavi 2024",
+    "channel": "HR Beats Production",
+    "thumbnail": "https://i.ytimg.com/vi/vmELhJZWorM/hqdefault.jpg",
+    "duration": 152,
     "category": "haryanvi"
   },
   {
@@ -904,35 +864,27 @@
     "category": "haryanvi"
   },
   {
+    "id": "ua6GpI8ugxY",
+    "title": "Gaadi Paache Gaadi (Official Video) Amanraj Gill, Pranjal Dahiya | New Haryanvi Songs Haryanavi 2022",
+    "channel": "Nav Haryanvi and Amanraj Gill",
+    "thumbnail": "https://i.ytimg.com/vi/ua6GpI8ugxY/hqdefault.jpg",
+    "duration": 195,
+    "category": "haryanvi"
+  },
+  {
+    "id": "1OAjeECW90E",
+    "title": "Dhanda Nyoliwala - Russian Bandana (Music Video) | Deepesh Goyal | VYRL Haryanvi",
+    "channel": "VYRL Haryanvi",
+    "thumbnail": "https://i.ytimg.com/vi/1OAjeECW90E/hqdefault.jpg",
+    "duration": 203,
+    "category": "haryanvi"
+  },
+  {
     "id": "gGnGSKKsATM",
     "title": "Blender (Full Video) | Masoom Sharma | Dev Chouhan, Pooja Saxena | New Haryanvi Songs Haryanavi 2024",
     "channel": "GSC MUSIC",
     "thumbnail": "https://i.ytimg.com/vi/gGnGSKKsATM/hqdefault.jpg",
     "duration": 186,
-    "category": "haryanvi"
-  },
-  {
-    "id": "LteFZAdiNjE",
-    "title": "WARNING (Official Lyrical Video) | Masoom Sharma | Malika Kaliraman | Haryanvi Songs Haryanvi 2025",
-    "channel": "Gem Tunes Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/LteFZAdiNjE/hqdefault.jpg",
-    "duration": 177,
-    "category": "haryanvi"
-  },
-  {
-    "id": "t9dWF8jQRog",
-    "title": "तागड़ी # Tagdi # Ajay Hooda # New DJ Song 2018 # Gagan & Anu Kadyan # Mor Music",
-    "channel": "Mor Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/t9dWF8jQRog/hqdefault.jpg",
-    "duration": 217,
-    "category": "haryanvi"
-  },
-  {
-    "id": "vmELhJZWorM",
-    "title": "Bahu Chaudhariya Ki (Official Video) Aman Jaji | Pranjal Dahiya | Haryanvi songs Haryanavi 2024",
-    "channel": "HR Beats Production",
-    "thumbnail": "https://i.ytimg.com/vi/vmELhJZWorM/hqdefault.jpg",
-    "duration": 152,
     "category": "haryanvi"
   }
 ]
